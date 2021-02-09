@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      
+@keyframes blink {
+  from {
+    stroke-width: 0
+  }
+  to {
+    stroke-width: 10
+  }
+}
+
+circle {
+  animation-duration: 3s;
+  animation-name: blink;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  stroke: rgb(147, 165, 204);
+  fill: rgb(40, 74, 136);
+}
+
+circle:hover {
+  stroke: rgb(133, 41, 29);
+  fill: rgb(158, 126, 121);
+} 
+
+    </style>
+  </head>
+  <body>
+    <svg id="svg" viewBox="0 0 200 100"></svg>
+  </body>
+  <script>
+
+    const svg = document.getElementById('svg')
+
+    const createRandomCircle = () => {
+      const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
+      circle.setAttribute('cx', Math.random() * 200)
+      circle.setAttribute('cy', Math.random() * 100)
+      circle.setAttribute('r', Math.random() * 15)
+      svg.appendChild(circle)
+    }
+    
+    Array.from(Array(30)).forEach(createRandomCircle)
+
+  </script>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      
+@keyframes blink {
+  from {
+    stroke-width: 0
+  }
+  to {
+    stroke-width: 40
+  }
+}
+
+circle {
+  animation-duration: 3s;
+  animation-name: blink;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  stroke: red;
+  fill: blue;
+}
+
+    </style>
+  </head>
+  <body>
+    <svg viewBox="0 0 200 100">
+      <circle cx="100" cy="50" r="20" />
+    </svg>
+  </body>
+</html>

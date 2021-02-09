@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <svg id="svg" viewBox="0 0 200 100"></svg>
+    <script>
+
+const svg = document.getElementById('svg')
+
+const createRandomCircle = () => {
+  const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
+  circle.setAttribute('cx', Math.random() * 200)
+  circle.setAttribute('cy', Math.random() * 100)
+  circle.setAttribute('r', Math.random() * 15)
+  svg.appendChild(circle)
+}
+
+Array.from(Array(20)).forEach(createRandomCircle)
+
+    </script>
+  </body>
+</html>

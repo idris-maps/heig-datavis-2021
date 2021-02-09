@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <svg viewBox="0 0 200 100">
+      <circle id="c" cx="100" cy="50" r="40" fill="blue" />
+    </svg>
+    <script>
+
+const circle = document.getElementById('c')
+
+let isBlue = true
+
+circle.addEventListener('click', () => {
+  isBlue = !isBlue
+  circle.setAttribute('fill', isBlue ? 'blue' : 'red')
+})
+
+
+    </script>
+  </body>
+</html>
