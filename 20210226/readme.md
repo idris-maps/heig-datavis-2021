@@ -9,6 +9,16 @@
 * [Cours](https://observablehq.com/@idris-maps/svg)
 * [Tutoriel MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
 
+### Vidéos
+
+Building Better Interfaces With SVG (Sara Soueidan)
+
+[![Sara Soueidan - Building Better Interfaces With SVG](https://img.youtube.com/vi/lMFfTRiipOQ/0.jpg)](https://www.youtube.com/watch?v=lMFfTRiipOQ)
+
+SVG can do that?! (Sarah Drasner)
+
+[![SVG can do that?! (Sarah Drasner)](https://img.youtube.com/vi/ADXX4fmWHbo/0.jpg)](https://www.youtube.com/watch?v=ADXX4fmWHbo)
+
 ---
 
 ### Exercice 1
@@ -63,6 +73,7 @@ Fichier `20210226/donnees.md`
 * Combinaison js + css
   - [Exemple](exemples_svg_web/js.html)
   - [Résultat](http://heig-datavis-2021.surge.sh/20210226/svg/css_js.html)
+
 ---
 
 ### Exercice 3
@@ -79,12 +90,12 @@ Fichier `20210226/page.html`
 
 [Cours](https://observablehq.com/@idris-maps/introduction-a-d3)
 
-### Vidéos
+---
 
-Building Better Interfaces With SVG (Sara Soueidan)
+### Exercice 4
 
-[![Sara Soueidan - Building Better Interfaces With SVG](https://img.youtube.com/vi/lMFfTRiipOQ/0.jpg)](https://www.youtube.com/watch?v=lMFfTRiipOQ)
+Fichier `20210226/d3.md`
 
-SVG can do that?! (Sarah Drasner)
+* Décrivez comment joindre des données à des éléments DOM avec D3
 
-[![SVG can do that?! (Sarah Drasner)](https://img.youtube.com/vi/ADXX4fmWHbo/0.jpg)](https://www.youtube.com/watch?v=ADXX4fmWHbo)
+---

@@ -34,6 +34,10 @@
 
 ---
 
+![campagne de russie](https://camo.githubusercontent.com/07ebfca547c1ee14c900e147c7f49529008f99f2d41ca479fbe768d32ef5edc2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32392f4d696e6172642e706e67)
+
+---
+
 # Outils
 
 * éditeur de texte

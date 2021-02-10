@@ -32,18 +32,39 @@ circle:hover {
     <svg id="svg" viewBox="0 0 200 100"></svg>
   </body>
   <script>
-
     const svg = document.getElementById('svg')
-
+    
+    const HEIGHT = 100
+    const RADIUS = 15
+    
     const createRandomCircle = () => {
       const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle')
       circle.setAttribute('cx', Math.random() * 200)
-      circle.setAttribute('cy', Math.random() * 100)
-      circle.setAttribute('r', Math.random() * 15)
+      circle.setAttribute('cy', Math.random() * HEIGHT)
+      circle.setAttribute('r', Math.random() * RADIUS)
       svg.appendChild(circle)
+      return circle
     }
     
-    Array.from(Array(30)).forEach(createRandomCircle)
-
-  </script>
+    const circles = Array.from(Array(10)).map(createRandomCircle)
+    
+    const moveDown = circle => {
+      const cy = Number(circle.getAttribute('cy'))
+    
+      if (cy > HEIGHT + RADIUS) {
+        circle.setAttribute('cx', Math.random() * 200)
+        circle.setAttribute('cy', -RADIUS)
+        circle.setAttribute('r', Math.random() * RADIUS)
+      } else {
+        circle.setAttribute('cy', cy + 2)
+      }
+    }
+    
+    const step = () => {
+      circles.forEach(moveDown)
+      requestAnimationFrame(step)
+    }
+    
+    step()
+        </script>
 </html>

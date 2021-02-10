@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manipulation DOM</title>
+  </head>
+  <body>
+    <h1>Manipulation DOM</h1>
+
+    <div>
+      <h2>Compter les clicks</h2>
+      <button id="counter">0</button>
+    </div>
+
+    <script>
+      let count = 0
+      const counterButton = document.getElementById('counter')
+      counterButton.addEventListener('click', () => {
+        count = count + 1
+        counterButton.textContent = count
+      })
+    </script>
+
+    <div>
+      <h2>Utiliser une valeur</h2>
+      <input id="name-input" />
+      <p>Salut <span id="name-display"></span></p>
+    </div>
+
+    <script>
+      const nameInput = document.getElementById('name-input')
+      const nameDisplay = document.getElementById('name-display')
+      nameInput.addEventListener('keyup', e => {
+        nameDisplay.textContent = e.target.value
+      })
+    </script>
+
+    <div>
+      <h2>Itérer</h2>
+      <ul id="list"></ul>
+    </div>
+
+    <script>
+      const data = [1, 2, 3, 4, 5]
+      const list = document.getElementById('list')
+      const addLi = d => {
+        const li = document.createElement('li')
+        li.textContent = d
+        list.appendChild(li)
+      }
+      data.forEach(addLi)
+    </script>
+  </body>
+</html>
