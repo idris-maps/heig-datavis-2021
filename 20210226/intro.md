@@ -16,6 +16,10 @@
 
 # Pourquoi visualiser?
 
+*Une image vaut mille mots*
+
+---
+
 * [The Billion Dollar-o-gram](https://informationisbeautiful.net/visualizations/the-billion-dollar-o-gram-2009/)
 * [Épidémie de choléra de Broad Street](https://fr.wikipedia.org/wiki/%C3%89pid%C3%A9mie_de_chol%C3%A9ra_de_Broad_Street)
 * [Quartet d'Anscombe](https://observablehq.com/@idris-maps/quartet-danscombe)
