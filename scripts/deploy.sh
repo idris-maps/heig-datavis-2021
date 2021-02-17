@@ -21,4 +21,9 @@ cp -avr modules/manipulation_dom/js site/dom/js
 cp -avr modules/manipulation_dom/react/dist site/dom/react
 cp -avr modules/manipulation_dom/svelte/public site/dom/svelte
 
+mkdir site/batons
+cp -avr modules/batons/batons_d3_v1/public site/batons/d3_v1
+cp -avr modules/batons/batons_d3_v2/public site/batons/d3_v2
+cp -avr modules/batons/batons_svelte/public site/batons/svelte
+
 surge site http://heig-datavis-2021.surge.sh
