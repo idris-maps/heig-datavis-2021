@@ -1,5 +1,4 @@
 <script>
-import { onMount } from 'svelte'
 import {
   axisLeft,
   select,
@@ -27,15 +26,15 @@ const yScale = scaleLinear()
   .domain([0, max(DATA, d => d.population)])
   .range([HEIGHT - MARGIN_BOTTOM, 0])
 
-let yAxis
-onMount(() => {
-  select(yAxis)
+const yAxis = node => {
+  // "node" est l'élément sur lequel "use:yAxis" est utilisé 
+  select(node)
     .call(
       axisLeft().scale(yScale)
         .tickFormat(d => `${d / 1000}k`)
         .ticks(5)
     )
-})
+}
 
 </script>
 
@@ -56,5 +55,5 @@ onMount(() => {
       >{d.nom}</text>
     {/each}
   </g>
-  <g bind:this={yAxis} transform={`translate(${MARGIN_LEFT - 3})`} />
+  <g use:yAxis transform={`translate(${MARGIN_LEFT - 3})`} />
 </svg>
