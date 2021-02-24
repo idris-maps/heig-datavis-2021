@@ -16,7 +16,9 @@
 
 # Pourquoi visualiser?
 
-*Une image vaut mille mots*
+---
+
+## *Une image vaut mille mots*
 
 ---
 
@@ -30,11 +32,11 @@
 
 ---
 
-![pie vs bar charts](https://upload.wikimedia.org/wikipedia/commons/b/b4/Piecharts.svg)
+![visual encodings](http://complexdiagrams.com/wp-content/2012/01/VisualPropertiesTable2.gif)
 
 ---
 
-![visual encodings](http://complexdiagrams.com/wp-content/2012/01/VisualPropertiesTable2.gif)
+![pie vs bar charts](https://upload.wikimedia.org/wikipedia/commons/b/b4/Piecharts.svg)
 
 ---
 
