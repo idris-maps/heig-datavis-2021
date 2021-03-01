@@ -99,3 +99,10 @@ Fichier `20210226/d3.md`
 * Décrivez comment joindre des données à des éléments DOM avec D3
 
 ---
+
+### Comparaison avec d'autres librairies
+
+* [D3](https://github.com/idris-maps/heig-datavis-2021/tree/master/modules/manipulation_dom/d3)
+* [Aucune librairie](https://github.com/idris-maps/heig-datavis-2021/tree/master/modules/manipulation_dom/js)
+* [Svelte](https://github.com/idris-maps/heig-datavis-2021/tree/master/modules/manipulation_dom/svelte)
+* [React](https://github.com/idris-maps/heig-datavis-2021/tree/master/modules/manipulation_dom/react)
