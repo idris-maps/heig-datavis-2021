@@ -39,6 +39,14 @@ fichier: `/20210306/exercice_2.js`
 * [Page wikipedia](https://fr.wikipedia.org/wiki/Node.js)
 * [Exemple de serveur](server.js)
 
+### Télécharger une librairie
+
+Pour node et pour un projet web. Exemple:
+
+```
+npm install d3 --save
+```
+
 ---
 
 ## Préparer des données
@@ -55,32 +63,46 @@ fichier: `/20210306/exercice_2.js`
 
 ---
 
-## Manipulation DOM
-
-Exemples:
-
-* [sans librairie](https://github.com/idris-maps/heig-datavis-2021/blob/master/modules/manipulation_dom/js/index.html) - [résultat](http://heig-datavis-2021.surge.sh/dom/js/)
-* [avec d3](https://github.com/idris-maps/heig-datavis-2021/tree/master/modules/manipulation_dom/d3) - [résultat](http://heig-datavis-2021.surge.sh/dom/d3/)
-* [avec react](https://github.com/idris-maps/heig-datavis-2021/tree/master/modules/manipulation_dom/react) - [résultat](http://heig-datavis-2021.surge.sh/dom/react/)
-* [avec svelte](https://github.com/idris-maps/heig-datavis-2021/tree/master/modules/manipulation_dom/svelte) - [résultat](http://heig-datavis-2021.surge.sh/dom/svelte/)
-
-### "Bundlers"
-
-* [rollup](https://rollupjs.org/guide/en/)
-* [parcel](https://parceljs.org/)
-* [esbuild](https://esbuild.github.io/)
-* [snowpack](https://www.snowpack.dev/)
-* [webpack](https://webpack.js.org/)
-
-### Télécharger une librairie
-
-```
-npm install d3 --save
-```
-
 ## Graphique en bâtons
+
+### Dessiner les bâtons
 
 ![Dimension](https://raw.githubusercontent.com/idris-maps/heig-datavis-2020/master/modules/graphique_batons_1/dimensions_batons.png)
 
 * [code](https://github.com/idris-maps/heig-datavis-2021/blob/master/modules/batons/batons_d3_v1/src/index.js)
 * [résultat](http://heig-datavis-2021.surge.sh/batons/d3_v1)
+
+### Ajouter les axes
+
+![Place pour les axes](https://raw.githubusercontent.com/idris-maps/heig-datavis-2020/master/modules/graphique_batons_2/dimensions.png)
+
+* [code](https://github.com/idris-maps/heig-datavis-2021/blob/master/modules/batons/batons_d3_v2/src/index.js)
+* [résultat](http://heig-datavis-2021.surge.sh/batons/d3_v2)
+
+---
+
+## Exercice 4
+
+Fichier `20210306/d3.md`
+
+Hormis `select`, quelles fonctions de d3, hormis `select` ont été utilisées pour le graphique en bâtons?
+
+Pour chaque fonction, décrivez à quoi elle sert et comment elle est utilisée.
+
+---
+
+### Exercice 5
+
+Créez un graphique en bâtons avec les données de l'exercice 3.
+
+Pour copier le graphique en bâtons créé plus haut, allez dans votre dossier `20210306` et:
+
+```
+npx degit idris-maps/heig-datavis-2021/blob/master/modules/batons/batons_d3_v2 batons
+cd batons
+npm install
+```
+
+Remplacez `data` dans `src/index.js` et mettez à jour ce qu'il faut. Regardez les attributs qui dépendent des données (avec `d =>`).
+
+---
