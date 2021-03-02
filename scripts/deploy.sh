@@ -16,24 +16,32 @@ cp 20210226/exemples_svg_web/js_animation.html site/20210226/svg/js_animation.ht
 cp 20210226/exemples_svg_web/css_js.html site/20210226/svg/css_js.html
 
 mkdir site/dom
-cp -avr modules/manipulation_dom/d3/public site/dom/d3
 cp -avr modules/manipulation_dom/js site/dom/js
+(cd modules/manipulation_dom/d3; npm install; npm run build)
+cp -avr modules/manipulation_dom/d3/public site/dom/d3
+(cd modules/manipulation_dom/react; npm install; npm run build)
 cp -avr modules/manipulation_dom/react/dist site/dom/react
+(cd modules/manipulation_dom/svelte; npm install; npm run build)
 cp -avr modules/manipulation_dom/svelte/public site/dom/svelte
 
 mkdir site/batons
+(cd modules/batons/batons_d3_v1; npm install; npm run build)
 cp -avr modules/batons/batons_d3_v1/public site/batons/d3_v1
+(cd modules/batons/batons_d3_v2; npm install; npm run build)
 cp -avr modules/batons/batons_d3_v2/public site/batons/d3_v2
+(cd modules/batons/batons_svelte; npm install; npm run build)
 cp -avr modules/batons/batons_svelte/public site/batons/svelte
 
 mkdir site/batons_anim
+(cd modules/batons_anim/batons_anim_d3; npm install; npm run build)
 cp -avr modules/batons_anim/batons_anim_d3/public site/batons_anim/d3
+(cd modules/batons_anim/batons_anim_svelte; npm install; npm run build)
 cp -avr modules/batons_anim/batons_anim_svelte/public site/batons_anim/svelte
 
-mkdir site/enter_update_exit
+(cd modules/enter_update_exit; npm install; npm run build)
 cp -avr modules/enter_update_exit/public site/enter_update_exit
 
-mkdir site/rosling
+(cd modules/rosling; npm install; npm run build)
 cp -avr modules/rosling/public site/rosling
 
 surge site http://heig-datavis-2021.surge.sh
