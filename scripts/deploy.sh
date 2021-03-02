@@ -26,4 +26,14 @@ cp -avr modules/batons/batons_d3_v1/public site/batons/d3_v1
 cp -avr modules/batons/batons_d3_v2/public site/batons/d3_v2
 cp -avr modules/batons/batons_svelte/public site/batons/svelte
 
+mkdir site/batons_anim
+cp -avr modules/batons_anim/batons_anim_d3/public site/batons_anim/d3
+cp -avr modules/batons_anim/batons_anim_svelte/public site/batons_anim/svelte
+
+mkdir site/enter_update_exit
+cp -avr modules/enter_update_exit/public site/enter_update_exit
+
+mkdir site/rosling
+cp -avr modules/rosling/public site/rosling
+
 surge site http://heig-datavis-2021.surge.sh

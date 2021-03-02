@@ -11,7 +11,7 @@ Analysez les deux visualisations [ici](exercice_1.md)
 Pour chacune des deux visualisations:
 
 - décrivez quelle est l'intention des auteurs
-- décrivez en quoi les choix, de données ou de type de visualisation, aident à faire passer le message souhaité
+- en quoi les choix, de données ou de type de visualisation, aident à faire passer le message souhaité?
 - qu'est ce qui est omis?
 
 ---
@@ -21,31 +21,21 @@ Pour chacune des deux visualisations:
 * [types primitifs](https://observablehq.com/@idris-maps/structure-de-donnees-javascript)
 * [méthodes sur une liste (Array)](https://observablehq.com/@idris-maps/methodes-sur-une-liste-array)
 
----
-
-## Exercice 2
-
-fichier: `/20210306/exercice_2.js`
-
-* Copiez le fichier [exercice_1.js](https://raw.githubusercontent.com/idris-maps/heig-datavis-2021/master/20210306/exercice_1.js) dans `/20210306/exercice_2.js`
-* Transformez la liste de villes pour obtenir les données souhaitées
-* Pour voir si vous avez vu juste, lancez `node exercice1` depuis le dossier `20210306`
-
----
-
 ## Node js
 
 * [Site](https://nodejs.org)
 * [Page wikipedia](https://fr.wikipedia.org/wiki/Node.js)
 * [Exemple de serveur](server.js)
 
-### Télécharger une librairie
+---
 
-Pour node et pour un projet web. Exemple:
+## Exercice 2
 
-```
-npm install d3 --save
-```
+fichier: `/20210306/exercice_2.js`
+
+* Copiez le fichier [exercice_2.js](https://raw.githubusercontent.com/idris-maps/heig-datavis-2021/master/20210306/exercice_2.js) dans `/20210306/exercice_2.js`
+* Transformez la liste de villes pour obtenir les données souhaitées
+* Pour voir si vous avez vu juste, lancez `node exercice1` depuis le dossier `20210306`
 
 ---
 
@@ -57,11 +47,16 @@ npm install d3 --save
 
 ## Exercice 3
 
-* Trouvez et préparez un jeu de données pour faire un graphique en bâtons.
+* Trouvez et préparez un jeu de données pour faire un graphique en bâtons
 * Ajoutez un fichier `20210306/data.md` où vous expliquez ce que vous avez fait
-* Le résultat est un fichier `20210306/data.json`avec une liste d'objets contenant un nom pour la légende et une valeur numérique.
+* Le résultat est un fichier `20210306/data.json`avec une liste d'objets contenant un nom pour la légende et une valeur numérique
 
 ---
+
+## Pourquoi `.enter()` avec D3?
+
+* [exemple](http://heig-datavis-2021.surge.sh/enter_update_exit)
+* [code](https://github.com/idris-maps/heig-datavis-2021/tree/master/modules/enter_update_exit)
 
 ## Graphique en bâtons
 

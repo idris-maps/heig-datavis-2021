@@ -305,10 +305,27 @@ node toJSON.js > data.json
 
 ### Utiliser une librairie pour lire les CSV
 
-Nous n'avons pas besoin de faire ce travail de diviser par ligne, puis par cellule. Nous l'avons fait ici pour montrer comment ça marche. Mais il existe plusieurs librairies javascript qui font le travail pour vous. Voyez par exemple [la préparation de données pour le graphique Gapminder](../rosling/data).
+Nous n'avons pas besoin de faire ce travail de diviser par ligne, puis par cellule. Nous l'avons fait ici pour montrer comment ça marche. Mais il existe plusieurs librairies javascript qui font le travail pour vous.
+
+```js
+const fs = require('fs')
+const d3 = require('d3')
+
+const file = fs.readFileSync('data.csv', 'utf-8')
+
+const { parse } = d3.dsvFormat(';')
+
+console.log(
+  parse(file)
+    .map(d => ({
+      elus: Number(d.anzahl_gewaehlte),
+      parti: d.partei_bezeichnung_fr,
+      canton: d.kanton_bezeichnung,
+    }))
+)
+```
 
 ## XLS
 
 XLS est le format utilisé par le logiciel Excel. La manière la plus facile d'utiliser ce type de fichier est de copier les cellules qui vous intéressent. Et les coller dans un éditeur de texte et sauver le fichier comme `.csv`.
 
-Il est possible d'ouvrir les fichier XLS avec `node`, pour cela vous pouvez aussi jeter un coup d'oeil à [la préparation de données pour le graphique Gapminder](../rosling/data).
