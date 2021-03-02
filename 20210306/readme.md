@@ -53,6 +53,24 @@ fichier: `/20210306/exercice_2.js`
 
 ---
 
+## Resources D3
+
+### Tutoriels
+
+* [Tutoriels officiels](https://github.com/d3/d3/wiki/Tutorials)
+* [Lets make a bar chart](https://observablehq.com/@d3/lets-make-a-bar-chart) par [Mike Bostock](https://observablehq.com/@mbostock)
+* [How to learn D3.js](https://wattenberger.com/blog/d3) par [Amelia Wattenberger](https://wattenberger.com/)
+* [Introduction to D3](https://observablehq.com/@mitvis/introduction-to-d3) par [MIT visualization group](http://vis.csail.mit.edu/)
+* [Dashing d3.js](https://www.dashingd3js.com/table-of-contents)
+
+### Exemples
+
+* [D3 gallery](https://observablehq.com/@d3/gallery)
+* [Shirley Wu](https://sxywu.com/)
+* [Danielle Carrick](http://daniellecarrick.com/)
+* [Nadieh Bremer](https://www.visualcinnamon.com/)
+
+
 ## Pourquoi `.enter()` avec D3?
 
 * [exemple](http://heig-datavis-2021.surge.sh/enter_update_exit)
