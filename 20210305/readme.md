@@ -4,7 +4,7 @@
 
 ## Exercice 1
 
-fichier: `/20210306/exercice_1.md`
+fichier: `/20210305/exercice_1.md`
 
 Analysez les deux visualisations [ici](exercice_1.md)
 
@@ -31,11 +31,11 @@ Pour chacune des deux visualisations:
 
 ## Exercice 2
 
-fichier: `/20210306/exercice_2.js`
+fichier: `/20210305/exercice_2.js`
 
-* Copiez le fichier [exercice_2.js](https://raw.githubusercontent.com/idris-maps/heig-datavis-2021/master/20210306/exercice_2.js) dans `/20210306/exercice_2.js`
+* Copiez le fichier [exercice_2.js](https://raw.githubusercontent.com/idris-maps/heig-datavis-2021/master/20210305/exercice_2.js) dans `/20210305/exercice_2.js`
 * Transformez la liste de villes pour obtenir les données souhaitées
-* Pour voir si vous avez vu juste, lancez `node exercice1` depuis le dossier `20210306`
+* Pour voir si vous avez vu juste, lancez `node exercice1` depuis le dossier `20210305`
 
 ---
 
@@ -48,8 +48,8 @@ fichier: `/20210306/exercice_2.js`
 ## Exercice 3
 
 * Trouvez et préparez un jeu de données pour faire un graphique en bâtons
-* Ajoutez un fichier `20210306/data.md` où vous expliquez ce que vous avez fait
-* Le résultat est un fichier `20210306/data.json`avec une liste d'objets contenant un nom pour la légende et une valeur numérique
+* Ajoutez un fichier `20210305/data.md` où vous expliquez ce que vous avez fait
+* Le résultat est un fichier `20210305/data.json`avec une liste d'objets contenant un nom pour la légende et une valeur numérique
 
 ---
 
@@ -71,7 +71,7 @@ fichier: `/20210306/exercice_2.js`
 * [Nadieh Bremer](https://www.visualcinnamon.com/)
 
 
-## Pourquoi `.enter()` avec D3?
+## Dans D3, pourquoi `.enter()`?
 
 * [exemple](http://heig-datavis-2021.surge.sh/enter_update_exit)
 * [code](https://github.com/idris-maps/heig-datavis-2021/tree/master/modules/enter_update_exit)
@@ -96,9 +96,9 @@ fichier: `/20210306/exercice_2.js`
 
 ## Exercice 4
 
-Fichier `20210306/d3.md`
+Fichier `20210305/d3.md`
 
-Hormis `select`, quelles fonctions de d3, hormis `select` ont été utilisées pour le graphique en bâtons?
+Hormis `select`, quelles fonctions de d3, ont été utilisées pour le graphique en bâtons?
 
 Pour chaque fonction, décrivez à quoi elle sert et comment elle est utilisée.
 
@@ -108,7 +108,7 @@ Pour chaque fonction, décrivez à quoi elle sert et comment elle est utilisée.
 
 Créez un graphique en bâtons avec les données de l'exercice 3.
 
-Pour copier le graphique en bâtons créé plus haut, allez dans votre dossier `20210306` et:
+Pour copier le graphique en bâtons créé plus haut, allez dans votre dossier `20210305` et:
 
 ```
 npx degit idris-maps/heig-datavis-2021/blob/master/modules/batons/batons_d3_v2 batons
