@@ -51,6 +51,9 @@ fichier: `/20210305/exercice_2.js`
 * Ajoutez un fichier `20210305/data.md` où vous expliquez ce que vous avez fait
 * Le résultat est un fichier `20210305/data.json`avec une liste d'objets contenant un nom pour la légende et une valeur numérique
 
+
+Données proposées: [Potentiel d'énergie solaire des communes suisses](http://www.uvek-gis.admin.ch/BFE/ogd/52/Solarenergiepotenziale_Gemeinden_Daecher_und_Fassaden.json) en `json`
+
 ---
 
 ## Resources D3
@@ -61,7 +64,7 @@ fichier: `/20210305/exercice_2.js`
 * [Lets make a bar chart](https://observablehq.com/@d3/lets-make-a-bar-chart) par [Mike Bostock](https://observablehq.com/@mbostock)
 * [How to learn D3.js](https://wattenberger.com/blog/d3) par [Amelia Wattenberger](https://wattenberger.com/)
 * [Introduction to D3](https://observablehq.com/@mitvis/introduction-to-d3) par [MIT visualization group](http://vis.csail.mit.edu/)
-* [Dashing d3.js](https://www.dashingd3js.com/table-of-contents)
+* [Dashing d3.js](https://www.dashingd3js.com/d3-tutorial/d3-js-first-steps)
 
 ### Exemples
 
