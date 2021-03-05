@@ -173,9 +173,15 @@ Créez un graphique en bâtons avec les données de l'exercice 3.
 Pour copier le graphique en bâtons créé plus haut, allez dans votre dossier `20210305` et:
 
 ```
-npx degit idris-maps/heig-datavis-2021/blob/master/modules/batons/batons_d3_v2 batons
+npx degit idris-maps/heig-datavis-2021/modules/batons/batons_d3_v2 batons
 cd batons
 npm install
+```
+
+Pour démarrer le serveur de dev:
+
+```
+npm run dev
 ```
 
 Remplacez `data` dans `src/index.js` et mettez à jour ce qu'il faut. Regardez les attributs qui dépendent des données (avec `d =>`).
