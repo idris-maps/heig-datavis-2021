@@ -56,6 +56,65 @@ Données proposées: [Potentiel d'énergie solaire des communes suisses](http://
 
 ---
 
+## Conversion des examples observable en js
+
+Prenons par exemple le premier graphique en bâtons [ici](https://observablehq.com/@idris-maps/graphiques-en-batons).
+
+```js
+viewof d3view = {
+  const WIDTH = width
+  const HEIGHT = width / 3
+  const container = DOM.svg(WIDTH, HEIGHT)
+  const svg = d3.select(container)
+  /*
+    vous pouvez reprendre tout ce qui est ici
+  */
+  return container
+}
+```
+
+* `width` est une valeur dynamique crée par observable
+* `DOM` est spécifique à observable
+
+Quand vous créez votre propre site:
+
+* Définissez `WIDTH` et `HEIGHT`, par exemple:
+
+```js
+const WIDTH = 300
+const HEIGHT = 100
+```
+
+* Définissez le svg dans le HTML:
+
+```html
+<svg id="mon-graph" width="300" height="100"></svg>
+```
+
+puis dans le javascript: 
+
+```js
+const svg = d3.select('#mon-graphique')
+```
+
+Dans observable: l'équivalant est:
+
+```js
+const container = DOM.svg(300, 100)
+const svg = d3.select(container)
+```
+
+Si vous n'avez pas de `<svg>` dans le HTML:
+
+```js
+const body = d3.select('body')
+const svg = body.append('svg')
+  .attr('width', 300)
+  .attr('height', 100)
+```
+
+---
+
 ## Resources D3
 
 ### Tutoriels
