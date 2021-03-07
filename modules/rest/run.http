@@ -1,0 +1,40 @@
+# Plugin VSCode: https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+
+GET http://localhost:3000/users
+
+### 
+
+GET http://localhost:3000/users/1
+
+###
+
+POST http://localhost:3000/users
+Content-Type: application/json
+
+{
+  "name": "Charles",
+  "city": "Nyon"
+}
+
+###
+
+PATCH http://localhost:3000/users/1
+Content-Type: application/json
+
+{
+  "city": "Vevey"
+}
+
+###
+
+PUT http://localhost:3000/users/2
+Content-Type: application/json
+
+{
+  "name": "Benjamin",
+  "city": "Montreux"
+}
+
+###
+
+DELETE http://localhost:3000/users/2
