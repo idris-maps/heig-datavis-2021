@@ -1,7 +1,8 @@
-import { scaleLinear, scaleLog, scalePow } from 'd3'
+import { scaleLinear, scaleLog, scalePow, scaleRadial, line, curveBasis } from 'd3'
+import data from './data'
 
 export const WIDTH = 1000
-export const HEIGHT = 400
+export const HEIGHT = 450
 export const MARGIN_LEFT = 30
 export const MARGIN_TOP = 20
 export const MARGIN_BOTTOM = 30
@@ -10,7 +11,7 @@ export const GRAPH_HEIGHT = HEIGHT - MARGIN_BOTTOM - MARGIN_TOP
 
 export const xScale = scaleLog().domain([500, 140000]).range([0, GRAPH_WIDTH])
 export const yScale = scaleLinear().domain([20, 85]).range([GRAPH_HEIGHT, 0])
-export const rScale = scalePow().domain([25000, 1000000000]).range([2, 40])
+export const rScale = scaleRadial().domain([25000, 1000000000]).range([3, 50])
 
 export const getColorByRegion = ({ region }) => {
   switch(region) {
@@ -23,4 +24,40 @@ export const getColorByRegion = ({ region }) => {
   }
 }
 
+const M = 1000000
+export const rAxis = [M, 20 * M, 100 * M, 1000 * M]
+  .map(d => ({ value: d, label: d / M + ' M', radius: rScale(d) }))
+
 export const getYearIndex = year => year - 1800
+
+const getLineDataByName = d => {
+  const name = d?.name
+  if (!name) { return undefined }
+
+  const country = data.find(d => d.name === name)
+  if (!name) { return undefined }
+  
+  return country.gdp.map((d, i) => [d, country.lex[i]])
+}
+
+export const getLinePathByName = d => {
+  const lineData = getLineDataByName(d)
+  if (!lineData) { return '' }
+
+  const lineCreator = line()
+    .x(d => xScale(d[0]))
+    .y(d => yScale(d[1]))
+    .curve(curveBasis)
+
+  return lineCreator(lineData)
+}
+
+export const getLineColorByName = d => {
+  const name = d?.name
+  if (!name) { return 'none' }
+
+  const country = data.find(d => d.name === name)
+  if (!country) { return 'none' }
+
+  return getColorByRegion(country)
+}

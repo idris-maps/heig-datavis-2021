@@ -8,6 +8,7 @@
     WIDTH,
     xScale,
     yScale,
+    rAxis,
   } from './utils'
 
   const AXIS_LABEL_SIZE = 10
@@ -30,15 +31,41 @@
     y={MARGIN_TOP}
     font-size={AXIS_LABEL_SIZE}
     transform={`rotate(90, ${MARGIN_LEFT}, ${MARGIN_TOP}) translate(0, -5)`}
-  >Life expectancy (years)</text>
+  >
+    Life expectancy (years)
+  </text>
   <text
     x={WIDTH}
     y={HEIGHT - MARGIN_BOTTOM - 3}
-    text-anchor={'end'}
+    text-anchor="end"
     font-size={AXIS_LABEL_SIZE}
-  >GDP per capita (in $1000's)</text>
+  >
+    GDP per capita (in $1000's)
+  </text>
+  <g transform={`translate(${WIDTH * 0.9}, ${HEIGHT * 0.45})`}>
+    {#each rAxis as d}
+      <circle
+        cy={d.radius}
+        r={d.radius}
+        fill="none"
+        stroke="black"
+      />
+      <text
+        x="55"
+        y={d.radius * 2}
+        font-size="8"
+      >
+        {d.label}
+      </text>
+    {/each}
+    <text
+      text-anchor="middle"
+      y="-10"
+    >
+      Population
+    </text>
+  </g>
 </g>
-
 <style>
 .axis {
   opacity: 0.5;
