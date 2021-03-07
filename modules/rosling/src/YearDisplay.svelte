@@ -7,7 +7,7 @@
 
 <text
   x={WIDTH}
-  y={HEIGHT - MARGIN_BOTTOM - YEAR_DISPLAY_SIZE * 0.2}
+  y={HEIGHT - MARGIN_BOTTOM - YEAR_DISPLAY_SIZE * 0.25}
   font-size={YEAR_DISPLAY_SIZE}
   text-anchor={'end'}
   opacity={0.5}

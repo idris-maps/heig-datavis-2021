@@ -22,21 +22,21 @@
     transform={`translate(${MARGIN_LEFT}, ${MARGIN_TOP})`}
     use:yAxis
   />
+  <text
+    x={MARGIN_LEFT}
+    y={MARGIN_TOP}
+    font-size={AXIS_LABEL_SIZE}
+    transform={`rotate(90, ${MARGIN_LEFT}, ${MARGIN_TOP}) translate(0, -10)`}
+  >
+    Life expectancy (years)
+  </text>
   <g
     transform={`translate(${MARGIN_LEFT}, ${HEIGHT - MARGIN_BOTTOM})`}
     use:xAxis
   />
   <text
-    x={MARGIN_LEFT}
-    y={MARGIN_TOP}
-    font-size={AXIS_LABEL_SIZE}
-    transform={`rotate(90, ${MARGIN_LEFT}, ${MARGIN_TOP}) translate(0, -5)`}
-  >
-    Life expectancy (years)
-  </text>
-  <text
     x={WIDTH}
-    y={HEIGHT - MARGIN_BOTTOM - 3}
+    y={HEIGHT - MARGIN_BOTTOM - 5}
     text-anchor="end"
     font-size={AXIS_LABEL_SIZE}
   >
@@ -44,6 +44,13 @@
   </text>
   <g transform={`translate(${WIDTH * 0.9}, ${HEIGHT * 0.45})`}>
     {#each rAxis as d}
+      <line
+        x2="52"
+        y1={d.radius * 2}
+        y2={d.radius * 2}
+        stroke="black"
+        stroke-dasharray="1 2"
+      />
       <circle
         cy={d.radius}
         r={d.radius}
@@ -59,6 +66,7 @@
       </text>
     {/each}
     <text
+      font-size={AXIS_LABEL_SIZE}
       text-anchor="middle"
       y="-10"
     >
@@ -68,7 +76,7 @@
 </g>
 <style>
 .axis {
-  opacity: 0.5;
+  opacity: 0.8;
   font-size: 8;
 }
 </style>
