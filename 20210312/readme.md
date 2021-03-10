@@ -183,6 +183,10 @@ et comment faire mentir des données
 
 ## Réactivité
 
+* [Wikipedia](https://fr.wikipedia.org/wiki/Programmation_r%C3%A9active)
+
+[![Rich Harris - Rethinking reactivity](https://img.youtube.com/vi/AdNJ3fydeao/0.jpg)](https://www.youtube.com/watch?v=AdNJ3fydeao)
+
 Dans [Observable](https://observablehq.com/@idris-maps/observable), une cellule peut être basées sur d'autres cellules. Comme dans "excel".
 
 Réactivité avec [svelte](https://svelte.dev)
@@ -195,6 +199,22 @@ Pour avoir le même résultat avec D3
 * [Résultat](http://heig-datavis-2021.surge.sh/reactivite/d3)
 * [Code](https://github.com/idris-maps/heig-datavis-2021/tree/master/modules/reactivite/d3/src/index.js)
 
+---
+
+## Exercice 2
+
+Fichier: `20210312/reactivite.md`
+
+- Décrivez ce qu'est la programmation réactivité?
+- Comment l'utiliser en javascript?
+- Quelle est l'alternative?
+
+---
+
+## Combiner svelte et d3
+
+* [Graphique en bâtons](https://github.com/idris-maps/heig-datavis-2021/blob/master/modules/batons/batons_svelte/src/App.svelte)
+
 ## Animer un graphique
 
 * [Transitions avec D3](https://observablehq.com/@idris-maps/transitions-avec-d3)
@@ -202,17 +222,29 @@ Pour avoir le même résultat avec D3
   - [Exemple](http://heig-datavis-2021.surge.sh/batons_anim/d3/)
   - [Code](https://github.com/idris-maps/heig-datavis-2021/tree/master/modules/batons_anim/batons_anim_d3/src/index.js)
 * Bâtons animés avec svelte
-  - [Exemple](http://heig-datavis-2021.surge.sh/batons_anim/d3/)
-  - [Code](https://github.com/idris-maps/heig-datavis-2021/tree/master/modules/batons_anim/batons_anim_d3/src/index.js)
+  - [Exemple](http://heig-datavis-2021.surge.sh/batons_anim/svelte/)
+  - [Code](https://github.com/idris-maps/heig-datavis-2021/tree/master/modules/batons_anim/batons_anim_svelte/src/App.svelte)
+
+---
+
+## Exercice 3
+
+Fichier: `20210312/transition.md`
+
+Comment fonctionnent les transitions en D3 et en svelte?
+
+---
 
 ## Autres graphiques D3
+
+[Cours](https://observablehq.com/@idris-maps/introduction-a-d3)
 
 * Camembert avec `d3.arc()` et `d3.pie()`
 * Graphique linéaire avec `d3.line()` ou `d3.area()`
 
 ---
 
-## Exercice 2
+## Exercice 4
 
 Créez un graphique dans un dossier `20210312/graph` avec les données de votre choix. Le graphique doit soit contenir une animation, soit être autre chose qu'un graphique en bâtons.
 

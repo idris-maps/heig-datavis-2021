@@ -9,7 +9,7 @@ const communesSuisses = data.filter(cantonEstDefini)
 
 /**
  * créer un objet où chaque clé est un canton
- * et la valeur est un tableau de nombre
+ * et la valeur est un tableau de nombres
  * 
  * {
  * "Vaud": [1, 2, 3],
