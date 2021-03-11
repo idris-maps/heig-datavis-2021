@@ -44,4 +44,13 @@ cp -avr modules/enter_update_exit/public site/enter_update_exit
 (cd modules/rosling; npm install; npm run build)
 cp -avr modules/rosling/public site/rosling
 
+mkdir site/abstraction
+npx middle-manager -md 20210312/abstraction.md -o site/abstraction/index.html
+
+mkdir site/reactivite
+(cd modules/reactivite/d3; npm install; npm run build)
+cp -avr modules/reactivite/d3/public site/reactivite/d3
+(cd modules/reactivite/svelte; npm install; npm run build)
+cp -avr modules/reactivite/svelte/public site/reactivite/svelte
+
 surge site http://heig-datavis-2021.surge.sh
