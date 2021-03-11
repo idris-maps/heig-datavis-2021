@@ -181,6 +181,14 @@ et comment faire mentir des données
 
 [Présentation](http://heig-datavis-2021.surge.sh/abstraction/)
 
+Video (à partir de 14 minutes)
+
+[![The listening post](https://upload.wikimedia.org/wikipedia/en/d/de/Listening_Post_title_card.jpg)](https://www.aljazeera.com/program/the-listening-post/2021/2/13/project-wave-exposed-media-corruption-scandalises-south-africa)
+
+* [Alberto Cairo](http://www.thefunctionalart.com/)
+* [Mona Chalabi](https://monachalabi.com/)
+* [W.E.B DuBois](https://usafacts.org/articles/web-du-bois-hand-drawn-data-visualizations-black-americans/)
+
 ## Réactivité
 
 * [Wikipedia](https://fr.wikipedia.org/wiki/Programmation_r%C3%A9active)
