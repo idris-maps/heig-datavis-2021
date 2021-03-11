@@ -249,3 +249,11 @@ Comment fonctionnent les transitions en D3 et en svelte?
 Créez un graphique dans un dossier `20210312/graph` avec les données de votre choix. Le graphique doit soit contenir une animation, soit être autre chose qu'un graphique en bâtons.
 
 ---
+
+## Exercice 5
+
+Fichier `20210312/d3.md`
+
+Quelles nouvelles fonctions D3 avons nous vu aujourd'hui? Expliquez à quoi elles servent.
+
+---
