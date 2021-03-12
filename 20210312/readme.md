@@ -62,8 +62,8 @@ Object.keys(obj)
 const data = [
   { nom: 'Alice', examen: 1, note: 5 },
   { nom:  'Bob', examen: 1, note: 4 },
-  { nom: 'Alice', examen: 1, note: 6 },
-  { nom:  'Bob', examen: 1, note: 3 },
+  { nom: 'Alice', examen: 2, note: 6 },
+  { nom:  'Bob', examen: 2, note: 3 },
 ]
 
 const notesParEleve = data.reduce((r, d) => {
@@ -83,6 +83,24 @@ const moyenneParEleve = Object.keys(notesParEleve)
 ```
 
 [exemple avec les données de potentiel solaire](grouper.js)
+
+### Joindre deux jeux de données
+
+```js
+const sites = [
+  { nom: 'Alice', site: 'alice.ch' },
+  { nom: 'Bob', site: 'bob.com' },
+]
+
+const trouverSite = nom => sites.find(d => d.nom === nom)
+
+const moyenneEtSite = moyenneParEleve.map(d => ({ ...d, site: trouverSite(d.nom) }))
+
+// ou
+const objSites = sites.reduce((r, d) => ({ ...r, [d.nom]: d.site }), {})
+
+const moyenneEtSite2 = moyenneParEleve.map(d => ({ ...d, site: objSites[d.nom] }))
+```
 
 ## `ramda` une librairie pour faciliter la manipulation de données
 
