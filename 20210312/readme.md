@@ -165,7 +165,7 @@ npm install node-fetch --save
 
 ## Exercice 1
 
-Fichier: `20210312/fetch_rest.js`
+Fichier: `20210312/fetch_rest/run.js`
 
 Utilisez
   1. les resources `posts` et `users` de [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/)
@@ -185,6 +185,14 @@ Utilisez
   },
   // ...
 ]
+```
+
+**Mise en place**
+
+```
+npx degit idris-maps/heig-datavis-2021/modules/exercice_rest fetch_rest
+cd fetch_rest
+npm install
 ```
 
 Commencez avec les utilisateurs. Il faut extraire le `nom_utilisateur` (`username`), la `ville` (`address.city`) et le `nom_companie` (`company.name`).
