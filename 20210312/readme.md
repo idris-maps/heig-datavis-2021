@@ -256,6 +256,22 @@ Comment fonctionnent les transitions en D3 et en svelte?
 
 Créez un graphique dans un dossier `20210312/graph` avec les données de votre choix. Le graphique doit soit contenir une animation, soit être autre chose qu'un graphique en bâtons.
 
+Pour la mise en place, allez dans votre dossier `20210312` et:
+
+```
+npx degit idris-maps/heig-datavis-2021/modules/batons/batons_d3_v2 graph
+cd graph
+npm install
+```
+
+ou
+
+```
+npx degit idris-maps/heig-datavis-2021/modules/batons/batons_svelte graph
+cd graph
+npm install
+```
+
 ---
 
 ## Exercice 5
