@@ -1,7 +1,7 @@
 const rl = require('readline')
 
 // années de 1800 à 2020
-const years = Array.from(Array(220)).map((_, i) => i + 1800)
+const years = Array.from(Array(221)).map((_, i) => i + 1800)
 
 // récupérer les données pour les années qui nous intéressent
 const dataByYear = json => years.map(year => json[year])

@@ -36,4 +36,4 @@ npx from-xlsx -f temp/regions.xlsx -s list-of-countries-etc -n true \
 
 # Joindre les 4 fichiers
 
-node join
+node join > data.json

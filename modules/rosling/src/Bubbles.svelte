@@ -1,6 +1,6 @@
 <script>
   import { pointer } from 'd3'
-  import data from './data'
+  import data from './data.json'
   import {
     MARGIN_LEFT,
     MARGIN_TOP,
