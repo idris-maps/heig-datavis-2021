@@ -2,6 +2,7 @@ import commonjs from '@rollup/plugin-commonjs'
 import resolve from '@rollup/plugin-node-resolve'
 import livereload from 'rollup-plugin-livereload'
 import { terser } from 'rollup-plugin-terser'
+import json from '@rollup/plugin-json'
 
 const production = !process.env.ROLLUP_WATCH
 
@@ -33,6 +34,7 @@ export default {
     resolve({
       browser: true,
     }),
+    json(),
     commonjs(),
     !production && serve(),
     !production && livereload('public'),
