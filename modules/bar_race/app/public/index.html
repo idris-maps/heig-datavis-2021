@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta content="width=device-width,initial-scale=1" name="viewport">
+    <style>
+html {
+  font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+}
+main {
+  margin: auto;
+  width: 90%;
+}
+#controls {
+  display: grid;
+  grid-template-columns: 5em auto;
+  column-gap: 2em;
+}
+#play-button {
+  padding: 1em;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+#slider-container, #slider-container input {
+  width: 100%;
+}
+
+#slider-container input {
+  margin-top: 2em;
+}
+    </style>
+  </head>
+  <body>
+    <main>
+      <div id="controls">
+        <svg id="play-button" viewBox="0 0 24 24">
+          <g id="playing" opacity="1">
+            <rect x="6" y="4" width="4" height="16" />
+            <rect x="14" y="4" width="4" height="16" />
+          </g>
+          <g id="not-playing" opacity="0">
+            <polygon points="5 3 19 12 5 21 5 3" />
+          </g>
+        </svg>
+        <div id="slider-container"></div>
+      </div>
+      <div id="axis"></div>
+      <div id="graph"></div>
+    </main>
+    <script src="build/bundle.js"></script>
+  </body>
+</html>
