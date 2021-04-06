@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ndjson-utils/transform": "^0.0.7",
+    "@ndjson-utils/transform": "^0.0.8",
     "@ndjson-utils/xlsx": "^0.0.7"
   }
 }
