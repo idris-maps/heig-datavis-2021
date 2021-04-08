@@ -12,8 +12,8 @@
 #### Démarrer un projet:
 
 ```
-npx degit idris-maps/heig-datavis-2021/modules/billboard
-cd graph
+npx degit idris-maps/heig-datavis-2021/modules/billboard bb-graph
+cd bb-graph
 npm install
 ```
 
