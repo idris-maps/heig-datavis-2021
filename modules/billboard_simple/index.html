@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://unpkg.com/billboard.js@3.0.2/dist/billboard.min.css" />
+    <script src="https://unpkg.com/billboard.js@3.0.2/dist/billboard.pkgd.min.js"></script>
+  </head>
+  <body>
+    <div id="graph"></div>
+    <script>
+bb.generate({
+  bindto: "#graph",
+  data: {
+    type: "bar",
+    columns: [
+      ["data1", 30, 200, 100, 170, 150, 250],
+      ["data2", 130, 100, 140, 35, 110, 50]
+    ]
+  }
+})
+    </script>
+  </body>
+</html>

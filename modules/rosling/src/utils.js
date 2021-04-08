@@ -1,4 +1,4 @@
-import { scaleLinear, scaleLog, scalePow, scaleRadial, line, curveBasis } from 'd3'
+import { scaleLinear, scaleLog, scaleRadial, line, curveBasis } from 'd3'
 import data from './data'
 
 export const WIDTH = 1000
@@ -23,10 +23,6 @@ export const getColorByRegion = ({ region }) => {
     default: return '#ffd92f'
   }
 }
-
-const M = 1000000
-export const rAxis = [M, 20 * M, 100 * M, 1000 * M]
-  .map(d => ({ value: d, label: d / M + ' M', radius: rScale(d) }))
 
 export const getYearIndex = year => year - 1800
 
@@ -61,3 +57,7 @@ export const getLineColorByName = d => {
 
   return getColorByRegion(country)
 }
+
+const M = 1000000
+export const rAxis = [M, 20 * M, 100 * M, 1000 * M]
+  .map(d => ({ value: d, label: d / M + ' M', radius: rScale(d) }))

@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # télécharger les fichiers
 
 curl https://raw.githubusercontent.com/Gapminder-Indicators/lex/master/lex-by-gapminder.xlsx \
