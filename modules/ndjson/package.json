@@ -1,0 +1,18 @@
+{
+  "name": "ndjson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generateData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ndjson-utils/transform": "^0.0.8",
+    "@ndjson-utils/vega-lite": "^0.0.8",
+    "faker": "^5.5.2",
+    "vega-lite": "^5.0.0"
+  }
+}
