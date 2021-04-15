@@ -54,7 +54,11 @@ cp -avr modules/reactivite/d3/public site/reactivite/d3
 cp -avr modules/reactivite/svelte/public site/reactivite/svelte
 
 mkdir site/bar-race
-(cd modules/bar-race/app; npm install; npm run build)
-cp -avr modules/bar-race/app/public site/bar-race
+(cd modules/bar_race/app; npm install; npm run build)
+cp -avr modules/bar_race/app/public site/bar-race
+
+mkdir site/texture-filter
+(cd modules/batons_texture_filter; npm install; npm run build)
+cp -avr modules/batons_texture_filter/public site/texture-filter
 
 surge site http://heig-datavis-2021.surge.sh
