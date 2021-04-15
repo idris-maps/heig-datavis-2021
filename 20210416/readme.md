@@ -1,4 +1,4 @@
-# 9 Avril 2021
+# 16 Avril 2021
 
 ## Librairies pour graphiques simples
 
@@ -61,13 +61,13 @@ const json = xslx.utils.sheet_to_json(file.Sheets['Ma feuille'])
 
 Extraire des données de [ce fichier excel](https://opentransportdata.swiss/dataset/02569ba8-b029-4d75-ad59-a6ffd4b6b569/resource/567eec7b-9ca3-465d-9f2f-89876e3bab32/download/peinaussteiger2018.xlsx) ([source](https://opentransportdata.swiss/dataset/einundaus/resource/567eec7b-9ca3-465d-9f2f-89876e3bab32))
 
-Dans un dossier `20210409/xlsx`:
+Dans un dossier `20210416/excel`:
 
 * Créez un fichier `.gitignore` avec `node_modules`
 * Installez `xlsx`: `npm init -y`, puis `npm install xlsx --save`
 * Créez un fichier `preparer.js` avec la préparation de données
 
-Dans un dossier `20210409/billboard` créez un graphique billboard avec les données
+Dans un dossier `20210416/billboard` créez un graphique billboard avec les données
 
 ---
 
@@ -81,7 +81,7 @@ Relation entre richesse et espérance de vie
 
 ## Exercice 2
 
-Fichier: `20210409/rosling.md`
+Fichier: `20210416/rosling.md`
 
 Quel message Hans Rosling veut-il faire passer?
 
@@ -177,7 +177,7 @@ Ligne de commande UNIX
 
 ## Exercice 3
 
-Fichier: `20210409/joli.svg`
+Fichier: `20210416/joli.svg`
 
 Créez un dessin SVG en utilisant des textures et des filtres
 
@@ -192,7 +192,7 @@ Créez un dessin SVG en utilisant des textures et des filtres
 
 ## Exercice 4
 
-Fichier: `20210409/d3.md`
+Fichier: `20210416/d3.md`
 
 Quelles fonctions D3 avez vous découvert aujourd'hui? À quoi servent-elles?
 
