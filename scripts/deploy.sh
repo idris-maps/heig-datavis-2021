@@ -61,4 +61,7 @@ mkdir site/texture-filter
 (cd modules/batons_texture_filter; npm install; npm run build)
 cp -avr modules/batons_texture_filter/public site/texture-filter
 
+mkdir site/cartographie
+npx middle-manager -md 20210423/cartographie.md -o site/cartographie/index.html
+
 surge site http://heig-datavis-2021.surge.sh

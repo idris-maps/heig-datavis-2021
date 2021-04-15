@@ -51,8 +51,8 @@ Librairie: [`xlsx`](https://www.npmjs.com/package/xlsx)
 ```js
 const xlsx = require('xlsx')
 
-const file = xslx.readFile('mon_fichier.xlsx')
-const json = xslx.utils.sheet_to_json(file.Sheets['Ma feuille'])
+const file = xlsx.readFile('mon_fichier.xlsx')
+const json = xlsx.utils.sheet_to_json(file.Sheets['Ma feuille'])
 ```
 
 ---
