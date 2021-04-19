@@ -29,16 +29,18 @@ const svg = select('body')
 const defs = svg.append('defs')
 
 const noise = defs.append('filter').attr('id', 'noise')
-noise.append('feTurbulence').attr('baseFrequency', 0.9)
+noise.append('feTurbulence').attr('baseFrequency', 0.5)
 
 const shadow = defs.append('filter').attr('id', 'shadow')
 shadow.append('feOffset').attr('in', 'SourceAlpha').attr('dx', 5).attr('dy', 5)
 shadow.append('feGaussianBlur').attr('stdDeviation', 2).attr('result', 'drop')
 shadow.append('feFlood').attr('flood-color', 'lightgrey').attr('color')
 shadow.append('feComposite').attr('in', 'color').attr('in2', 'drop').attr('operator', 'in').attr('result', 'shadow')
+
 const shadowMerge = shadow.append('feMerge')
 shadowMerge.append('feMergeNode').attr('in', 'shadow')
 shadowMerge.append('feMergeNode').attr('in', 'SourceGraphic')
+
 
 const texture = textures.circles()
   .size(10)
@@ -54,7 +56,7 @@ svg.append('rect')
   .attr('height', HEIGHT)
   .attr('fill', 'white')
   .attr('filter', 'url(#noise)')
-  .attr('opacity', 0.2)
+  .attr('opacity', 0.1)
 
 const yScale = scaleLinear()
   .domain([0, max(DATA, d => d.population)])
