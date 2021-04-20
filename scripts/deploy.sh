@@ -72,4 +72,8 @@ mkdir site/carte-d3-shp
 (cd modules/carte-d3-shp; npm install; npm run build)
 cp -avr modules/carte-d3-shp/public/* site/carte-d3-shp
 
+mkdir site/carte-leaflet
+(cd modules/carte-leaflet; npm install; npm run build)
+cp -avr modules/carte-leaflet/public/* site/carte-leaflet
+
 surge site http://heig-datavis-2021.surge.sh

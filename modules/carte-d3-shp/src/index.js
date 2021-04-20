@@ -17,6 +17,14 @@ const paths = svg.selectAll('path')
   .enter()
   .append('path')
 
+paths.on('mouseover', e => {
+  select(e.target).attr('fill', 'red')
+})
+
+paths.on('mouseout', e => {
+  select(e.target).attr('fill', 'black')
+})
+
 let rotate = [0, 0, 0]
 
 const tick = () => {
