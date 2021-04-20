@@ -9,6 +9,7 @@
 * [geojson](https://observablehq.com/@idris-maps/donnees-cartographiques)
 * [shapefile](https://fr.wikipedia.org/wiki/Shapefile)
 * [osm](https://wiki.openstreetmap.org/wiki/OSM_XML)
+* [WKT](https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry)
 
 ### Convertir en geojson
 

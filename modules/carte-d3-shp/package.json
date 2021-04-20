@@ -1,0 +1,22 @@
+{
+  "name": "d3-rollup",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "start": "sirv public"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^17.1.0",
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-node-resolve": "^11.1.1",
+    "mapshaper": "^0.5.45",
+    "rollup": "^2.38.4",
+    "rollup-plugin-livereload": "^2.0.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "shapefile": "^0.6.6",
+    "sirv-cli": "^1.0.11"
+  },
+  "dependencies": {
+    "d3": "^6.5.0"
+  }
+}

@@ -12,5 +12,8 @@
   "dependencies": {
     "d3": "^6.5.0",
     "middle-manager": "^1.0.8"
+  },
+  "devDependencies": {
+    "@mapbox/geojson-rewind": "^0.5.0"
   }
 }
