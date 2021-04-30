@@ -131,7 +131,7 @@ const context = canvas.getContext('2d')
 
 ## "Scrollytelling"
 
-* [Exemple 1](https://shorthand.com/the-craft/an-introduction-to-scrollytelling/index.html)
+* [Exemple 1](https://www.nytimes.com/interactive/2019/10/30/world/middleeast/syria-turkey-maps.html)
 * [Exemple 2](https://svearikes-graenser.surge.sh/)
 * [svelte-scroller](https://github.com/sveltejs/svelte-scroller)
   - [Demo](https://svelte.dev/repl/76846b7ae27b3a21becb64ffd6e9d4a6?version=3.37.0)
