@@ -32,7 +32,7 @@ cl(temp0, 'tr')
 
 Exemples:
 
-1. [Chausettes galaxus](https://github.com/idris-maps/heig-datavis-2021/tree/master/modules/scrape_chaussettes)
+1. [Chaussettes galaxus](https://github.com/idris-maps/heig-datavis-2021/tree/master/modules/scrape_chaussettes)
 2. [Les titres du 19h30](https://github.com/idris-maps/heig-datavis-2020/blob/master/modules/19h30/scrape.md) - cours de l'année dernière - NE FONCTIONNE PLUS
 
 ### 4. Automatiser le navigateur avec `puppeteer`
