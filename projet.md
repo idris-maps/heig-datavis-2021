@@ -16,10 +16,10 @@
 - Le produit final doit être sous forme de site publié
 - Le code source du site et la méthode de préparation des données doit être accessible sur github
 
-### Fichier `projet/read.me` dans votre repo de cours
+### Fichier `projet/readme.md` dans votre repo de cours
 
 - Doit inclure les liens vers le site publié ainsi que vers le code utilisé
-- Doit décrire où vous avez trouvé les données et les choix que vous fait pour les préparer
+- Doit décrire où vous avez trouvé les données et les choix que vous avez fait pour les préparer
 - Avec qui vous avez travaillé, si vous avez fait le projet à deux
 
 ### Un dossier avec le code source
