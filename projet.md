@@ -46,6 +46,7 @@ Dépendant des librairies que vous souhaitez utiliser, vous pouvez reprendre les
 
 * pour `D3`: `idris-maps/heig-datavis-2021/modules/batons/batons_d3_v2`
 * pour `svelte`: `idris-maps/heig-datavis-2021/modules/batons/batons_svelte`
+* pour `leaflet`: `idris-maps/heig-datavis-2021/modules/carte-leaflet`
 * pour `billboard`: `idris-maps/heig-datavis-2021/modules/billboard`
 
 ```
