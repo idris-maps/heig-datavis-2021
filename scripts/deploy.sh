@@ -76,4 +76,26 @@ mkdir site/carte-leaflet
 (cd modules/carte-leaflet; npm install; npm run build)
 cp -avr modules/carte-leaflet/public/* site/carte-leaflet
 
+mkdir site/anim-camembert
+(cd modules/anim-camembert; npm install; npm run build)
+cp -avr modules/anim-camembert/public/* site/anim-camembert
+
+mkdir site/d3-hover
+(cd modules/d3-hover; npm install; npm run build)
+cp -avr modules/d3-hover/public/* site/d3-hover
+
+mkdir site/svg-dans-graph
+(cd modules/svg-dans-graph; npm install; npm run build)
+cp -avr modules/svg-dans-graph/public/* site/svg-dans-graph
+
+mkdir site/titanic
+(cd modules/titanic; npm install; npm run build)
+cp -avr modules/titanic/public/* site/titanic
+
+mkdir site/three
+cp 20210521/three.html site/three/index.html
+
+mkdir site/a-frame
+cp 20210521/a-frame.html site/a-frame/index.html
+
 surge site http://heig-datavis-2021.surge.sh

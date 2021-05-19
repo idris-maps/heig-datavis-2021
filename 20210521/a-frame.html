@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <script src="https://aframe.io/releases/0.9.1/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-box id="cube" position="0 1.5 -2" rotation="0 0 0" color="#4CC3D9"></a-box>
+      <a-sky color="black"></a-sky>
+    </a-scene>
+
+    <script>
+const cube = document.getElementById('cube')
+let rotation = 0
+
+const tick = () => {
+  rotation = rotation + 1
+  cube.setAttribute('rotation', `${rotation} ${rotation} ${rotation}`)
+  requestAnimationFrame(tick)
+}
+requestAnimationFrame(tick)
+
+    </script>
+  </body>
+</html>
