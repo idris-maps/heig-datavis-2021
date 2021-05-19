@@ -29,6 +29,7 @@
 * [tensorflow.js](https://www.tensorflow.org/js)
 * [exemple d'utilisation](https://observablehq.com/@idris-maps/apprentissage-automatique)
 * [models prédéfinis](https://www.tensorflow.org/js/models)
+  - QnA [code](https://github.com/idris-maps/heig-datavis-2021/blob/master/20210521/qna.html) [résultat](http://heig-datavis-2021.surge.sh/qna/)
   - [toxicity](https://github.com/tensorflow/tfjs-models/tree/master/toxicity)
   - [bodyPix](https://github.com/tensorflow/tfjs-models/tree/master/body-pix#try-the-live-demo-here)
 
@@ -47,7 +48,6 @@
 
 * [Site](https://threejs.org/)
 * Exemple cube [code](https://github.com/idris-maps/heig-datavis-2021/blob/master/20210521/three.html) [résultat](http://heig-datavis-2021.surge.sh/three/)
-* TODO resultat
 
 ### A-frame
 

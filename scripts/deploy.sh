@@ -98,4 +98,7 @@ cp 20210521/three.html site/three/index.html
 mkdir site/a-frame
 cp 20210521/a-frame.html site/a-frame/index.html
 
+mkdir site/qna
+cp 20210521/qna.html site/qna/index.html
+
 surge site http://heig-datavis-2021.surge.sh

@@ -1,0 +1,70 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"> </script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/qna"> </script>
+    <style>
+      body {
+        font-size: 25px;
+      }
+      main {
+        width: 90%;
+        max-width: 1300px;
+        margin: auto;
+      }
+      textarea {
+        width: 100%;
+        height: 40vh;
+        font-size: 1em;
+      }
+      input {
+        font-size: 1em;
+      }
+      .q-area {
+        display: grid;
+        grid-template-columns: auto 80px;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h3>Passage</h3>
+      <textarea id="passage"></textarea>
+      <h3>Question</h3>
+      <div class="q-area">
+        <input id="question" />
+        <button id="question-btn" style="display: none">OK</button>
+      </div>
+      <h3>Answer</h3>
+      <pre id="result"></pre>
+    </main>
+    <script>
+const el = {
+  passage: document.getElementById('passage'),
+  result: document.getElementById('result'),
+  question: document.getElementById('question'),
+  btn: document.getElementById('question-btn'),
+}
+const defaultPassage = 'Yverdon-les-Bains has an area, as of 2009, of 11.3 square kilometers (4.4 sq mi). Of this area, 3.57 km2 (1.38 sq mi) or 31.6% is used for agricultural purposes, while 0.71 km2 (0.27 sq mi) or 6.3% is forested. Of the rest of the land, 6.52 km2 (2.52 sq mi) or 57.8% is settled (buildings or roads), 0.31 km2 (0.12 sq mi) or 2.7% is either rivers or lakes and 0.2 km2 (0.077 sq mi) or 1.8% is unproductive land. Of the built up area, industrial buildings made up 6.6% of the total area while housing and buildings made up 26.2% and transportation infrastructure made up 15.2%. Power and water infrastructure as well as other special developed areas made up 2.5% of the area while parks, green belts and sports fields made up 7.4%. Out of the forested land, 4.7% of the total land area is heavily forested and 1.6% is covered with orchards or small clusters of trees. Of the agricultural land, 27.1% is used for growing crops and 3.5% is pastures. All the water in the municipality is flowing water. The municipality was the capital of the Yverdon District until it was dissolved on 31 August 2006, and Yverdon-les-Bains became part of the new district of Jura-Nord Vaudois. The municipality of Gressy merged on 1 July 2011 into the municipality of Yverdon-les-Bains.'
+const question = 'When did Yverdon merge with Gressy?'
+
+el.passage.value = defaultPassage
+
+const onQuestion = model => () => {
+  const question = el.question.value
+  const passage = el.passage.value
+  model.findAnswers(question, passage)
+    .then(answers => {
+      el.result.innerText = JSON.stringify(answers, null, 2)
+    })
+}
+
+const onModel = model => {
+  el.btn.style.display = 'block'
+  el.btn.addEventListener('click', onQuestion(model))
+}
+
+qna.load().then(onModel)
+    </script>
+  </body>
+</html>
