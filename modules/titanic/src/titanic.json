@@ -1,0 +1,10646 @@
+[
+  {
+    "name": "Mr. Owen Harris Braund",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 7.25
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. John Bradley (Florence Briggs Thayer) Cumings",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 38,
+      "prix": 71.2833
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Laina Heikkinen",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 26,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Jacques Heath (Lily May Peel) Futrelle",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 35,
+      "prix": 53.1
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. William Henry Allen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 35,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. James Moran",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 27,
+      "prix": 8.4583
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Timothy J McCarthy",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 54,
+      "prix": 51.8625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Gosta Leonard Palsson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 2,
+      "prix": 21.075
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Oscar W (Elisabeth Vilhelmina Berg) Johnson",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 27,
+      "prix": 11.1333
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Nicholas (Adele Achem) Nasser",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 14,
+      "prix": 30.0708
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Marguerite Rut Sandstrom",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 4,
+      "prix": 16.7
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Elizabeth Bonnell",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 58,
+      "prix": 26.55
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. William Henry Saundercock",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Anders Johan Andersson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 39,
+      "prix": 31.275
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Hulda Amanda Adolfina Vestrom",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 14,
+      "prix": 7.8542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. (Mary D Kingcome) Hewlett",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 55,
+      "prix": 16
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. Eugene Rice",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 2,
+      "prix": 29.125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Charles Eugene Williams",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 23,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Julius (Emelia Maria Vandemoortele) Vander Planke",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 31,
+      "prix": 18
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Fatima Masselmani",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 22,
+      "prix": 7.225
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Joseph J Fynney",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 35,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Lawrence Beesley",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 34,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Anna McGowan",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 15,
+      "prix": 8.0292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. William Thompson Sloper",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 28,
+      "prix": 35.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Torborg Danira Palsson",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 8,
+      "prix": 21.075
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Carl Oscar (Selma Augusta Emilia Johansson) Asplund",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 38,
+      "prix": 31.3875
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Farred Chehab Emir",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 26,
+      "prix": 7.225
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Charles Alexander Fortune",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 19,
+      "prix": 263
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Ellen O'Dwyer",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 24,
+      "prix": 7.8792
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Lalio Todoroff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 23,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Don. Manuel E Uruchurtu",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 40,
+      "prix": 27.7208
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. William Augustus (Marie Eugenie) Spencer",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 48,
+      "prix": 146.5208
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Mary Agatha Glynn",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 18,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Edward H Wheadon",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 66,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Edgar Joseph Meyer",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 28,
+      "prix": 82.1708
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Alexander Oskar Holverson",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 42,
+      "prix": 52
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Hanna Mamee",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 18,
+      "prix": 7.2292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Ernest Charles Cann",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Augusta Maria Vander Planke",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 18,
+      "prix": 18
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Jamila Nicola-Yarred",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 14,
+      "prix": 11.2417
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Johan (Johanna Persdotter Larsson) Ahlin",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 40,
+      "prix": 9.475
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. William John Robert (Dorothy Ann Wonnacott) Turpin",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 27,
+      "prix": 21
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Simonne Marie Anne Andree Laroche",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 3,
+      "prix": 41.5792
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Margaret Delia Devaney",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 19,
+      "prix": 7.8792
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. William John Rogers",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 30,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Denis Lennon",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 15.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Bridget O'Driscoll",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 27,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Youssef Samaan",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 16,
+      "prix": 21.6792
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Josef (Josefine Franchi) Arnold-Franchi",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 18,
+      "prix": 17.8
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Juha Niilo Panula",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 7,
+      "prix": 39.6875
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Richard Cater Nosworthy",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 7.8
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Henry Sleeper (Myna Haxtun) Harper",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 49,
+      "prix": 76.7292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Lizzie (Elizabeth Anne Wilkinson) Faunthorpe",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 29,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Engelhart Cornelius Ostby",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 65,
+      "prix": 61.9792
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Hugh Woolner",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 46,
+      "prix": 35.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Emily Rugg",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 21,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Mansouer Novel",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28.5,
+      "prix": 7.2292
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Constance Mirium West",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 5,
+      "prix": 27.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. William Frederick Goodwin",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 11,
+      "prix": 46.9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Orsen Sirayanian",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 7.2292
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Amelie Icard",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 38,
+      "prix": 80
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Henry Birkhardt Harris",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 45,
+      "prix": 83.475
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Harald Skoog",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 4,
+      "prix": 27.9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Albert A Stewart",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 64,
+      "prix": 27.7208
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Gerios Moubarek",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 7,
+      "prix": 15.2458
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. (Elizabeth Ramell) Nye",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 29,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Ernest James Crease",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 8.1583
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Erna Alexandra Andersson",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 17,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Vincenz Kink",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 26,
+      "prix": 8.6625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Stephen Curnow Jenkin",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 32,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Lillian Amy Goodwin",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 16,
+      "prix": 46.9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ambrose Jr Hood",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 21,
+      "prix": 73.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Apostolos Chronopoulos",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 26,
+      "prix": 14.4542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Lee Bing",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 32,
+      "prix": 56.4958
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Sigurd Hansen Moen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 25,
+      "prix": 7.65
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ivan Staneff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 23,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Rahamin Haim Moutal",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Alden Gates Caldwell",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 0.83,
+      "prix": 29
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Elizabeth Dowdell",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 30,
+      "prix": 12.475
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Achille Waelens",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Jan Baptist Sheerlinck",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 29,
+      "prix": 9.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Brigdet Delia McDermott",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 31,
+      "prix": 7.7875
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Francisco M Carrau",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 28,
+      "prix": 47.1
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Bertha Ilett",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 17,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Karl Alfred (Maria Mathilda Gustafsson) Backstrom",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 33,
+      "prix": 15.85
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. William Neal Ford",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 16,
+      "prix": 34.375
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Selman Francis Slocovski",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Mabel Helen Fortune",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 23,
+      "prix": 263
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Francesco Celotti",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 24,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Emil Christmann",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 29,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Paul Edvin Andreasson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 7.8542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Herbert Fuller Chaffee",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 46,
+      "prix": 61.175
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Bertram Frank Dean",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 26,
+      "prix": 20.575
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Daniel Coxon",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 59,
+      "prix": 7.25
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Charles Joseph Shorney",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. George B Goldschmidt",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 71,
+      "prix": 34.6542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William Bertram Greenfield",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 23,
+      "prix": 63.3583
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. John T (Ada Julia Bone) Doling",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 34,
+      "prix": 23
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Sinai Kantor",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 34,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Matilda Petranec",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 28,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Pastcho Petroff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 29,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Richard Frasar White",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 21,
+      "prix": 77.2875
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Gustaf Joel Johansson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 33,
+      "prix": 8.6542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Anders Vilhelm Gustafsson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 37,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Stoytcho Mionoff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Anna Kristine Salkjelsvik",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 21,
+      "prix": 7.65
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Albert Johan Moss",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 29,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Tido Rekic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 38,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Bertha Moran",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 28,
+      "prix": 24.15
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Walter Chamberlain Porter",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 47,
+      "prix": 52
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Hileni Zabour",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 14.5,
+      "prix": 14.4542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. David John Barton",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Katriina Jussila",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 20,
+      "prix": 9.825
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Malake Attalah",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 17,
+      "prix": 14.4583
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Edvard Pekoniemi",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Patrick Connors",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 70.5,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William John Robert Turpin",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 29,
+      "prix": 21
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Quigg Edmond Baxter",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 24,
+      "prix": 247.5208
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Ellis Anna Maria Andersson",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 2,
+      "prix": 31.275
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Stanley George Hickman",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 21,
+      "prix": 73.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Leonard Charles Moore",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Nicholas Nasser",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 32.5,
+      "prix": 30.0708
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Susan Webber",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 32.5,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Percival Wayland White",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 54,
+      "prix": 77.2875
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Elias Nicola-Yarred",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 12,
+      "prix": 11.2417
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Martin McMahon",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Fridtjof Arne Madsen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 24,
+      "prix": 7.1417
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Anna Peter",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 2,
+      "prix": 22.3583
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Johan Ekstrom",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 45,
+      "prix": 6.975
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Jozef Drazenoic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 33,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Domingos Fernandeo Coelho",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 7.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Alexander A (Grace Charity Laury) Robins",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 47,
+      "prix": 14.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Leopold (Mathilde Francoise Pede) Weisz",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 29,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Samuel James Hayden Sobey",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 25,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Emile Richard",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 23,
+      "prix": 15.0458
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Helen Monypeny Newsom",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 19,
+      "prix": 26.2833
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Jacques Heath Futrelle",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 37,
+      "prix": 53.1
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Olaf Elon Osen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 16,
+      "prix": 9.2167
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Victor Giglio",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 24,
+      "prix": 79.2
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Joseph (Sultana) Boulos",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 40,
+      "prix": 15.2458
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Anna Sofia Nysten",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 22,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Pekka Pietari (Elin Matilda Dolck) Hakkarainen",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 24,
+      "prix": 15.85
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Jeremiah Burke",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 6.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Edgardo Samuel Andrew",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 18,
+      "prix": 11.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Joseph Charles Nicholls",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 19,
+      "prix": 36.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. August Edvard Andersson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 27,
+      "prix": 7.7958
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Robina Maggie Ford",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 9,
+      "prix": 34.375
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Michel Navratil",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 36.5,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Rev. Thomas Roussel Davids Byles",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 42,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Rev. Robert James Bateman",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 51,
+      "prix": 12.525
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Thomas (Edith Wearne) Pears",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 22,
+      "prix": 66.6
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Alfonzo Meo",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 55.5,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Austin Blyler van Billiard",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 40.5,
+      "prix": 14.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ole Martin Olsen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 27,
+      "prix": 7.3125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Charles Duane Williams",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 51,
+      "prix": 61.3792
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Katherine Gilnagh",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 16,
+      "prix": 7.7333
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Harry Corn",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 30,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Mile Smiljanic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 37,
+      "prix": 8.6625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Thomas Henry Sage",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 5,
+      "prix": 69.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. John Hatfield Cribb",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 44,
+      "prix": 16.1
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. James (Elizabeth Inglis Milne) Watt",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 40,
+      "prix": 15.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. John Viktor Bengtsson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 26,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Jovo Calic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 17,
+      "prix": 8.6625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Eino Viljami Panula",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 1,
+      "prix": 39.6875
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Frank John William Goldsmith",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 9,
+      "prix": 20.525
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. (Edith Martha Bowerman) Chibnall",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 48,
+      "prix": 55
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. William (Anna Bernhardina Karlsson) Skoog",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 45,
+      "prix": 27.9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. John D Baumann",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 60,
+      "prix": 25.925
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Lee Ling",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 56.4958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Wyckoff Van der hoef",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 61,
+      "prix": 33.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Arthur Rice",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 4,
+      "prix": 29.125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Eleanor Ileen Johnson",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 1,
+      "prix": 11.1333
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Antti Wilhelm Sivola",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. James Clinch Smith",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 56,
+      "prix": 30.6958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Klas Albin Klasen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 18,
+      "prix": 7.8542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Henry Forbes Lefebre",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 5,
+      "prix": 25.4667
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Ann Elizabeth Isham",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 50,
+      "prix": 28.7125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Reginald Hale",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 30,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Lionel Leonard",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 36,
+      "prix": 0
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Constance Gladys Sage",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 8,
+      "prix": 69.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Rene Pernot",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 39,
+      "prix": 15.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Clarence Gustaf Hugo Asplund",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 9,
+      "prix": 31.3875
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Richard F Becker",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 1,
+      "prix": 39
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Luise Gretchen Kink-Heilmann",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 4,
+      "prix": 22.025
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Hugh Roscoe Rood",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 39,
+      "prix": 50
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Thomas (Johanna Godfrey) O'Brien",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 26,
+      "prix": 15.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Charles Hallace Romaine",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 45,
+      "prix": 26.55
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. John Bourke",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 40,
+      "prix": 15.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Stjepan Turcin",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 36,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. (Rosa) Pinsky",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 32,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. William Carbines",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 19,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Carla Christine Nielsine Andersen-Jensen",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 19,
+      "prix": 7.8542
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. Michel M Navratil",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 3,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. James Joseph (Margaret Tobin) Brown",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 44,
+      "prix": 27.7208
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Elise Lurette",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 58,
+      "prix": 146.5208
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Robert Mernagh",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Karl Siegwart Andreas Olsen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 42,
+      "prix": 8.4042
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Margaret Madigan",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 21,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Henriette Yrois",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 24,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Nestor Cyriel Vande Walle",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 9.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Frederick Sage",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 17,
+      "prix": 69.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Jakob Alfred Johanson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 34,
+      "prix": 6.4958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Gerious Youseff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 45.5,
+      "prix": 7.225
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Gurshon Cohen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 18,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Telma Matilda Strom",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 2,
+      "prix": 10.4625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Karl Alfred Backstrom",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 32,
+      "prix": 15.85
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Nassef Cassem Albimona",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 26,
+      "prix": 18.7875
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Helen Carr",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 16,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Henry Blank",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 40,
+      "prix": 31
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Ahmed Ali",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 24,
+      "prix": 7.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Clear Annie Cameron",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 35,
+      "prix": 21
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. John Henry Perkin",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 7.25
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Hans Kristensen Givard",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 30,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Philip Kiernan",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Madeleine Newell",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 31,
+      "prix": 113.275
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Eliina Honkanen",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 27,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Sidney Samuel Jacobsohn",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 42,
+      "prix": 27
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Albina Bazzani",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 32,
+      "prix": 76.2917
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Walter Harris",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 30,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Victor Francis Sunderland",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 16,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. James H Bracken",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 27,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. George Henry Green",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 51,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Christo Nenkoff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Frederick Maxfield Hoyt",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 38,
+      "prix": 90
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Karl Ivar Sven Berglund",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 9.35
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William John Mellors",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 19,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. John Hall Lovell",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20.5,
+      "prix": 7.25
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Arne Jonas Fahlstrom",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 18,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Mathilde Lefebre",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 12,
+      "prix": 25.4667
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Henry Birkhardt (Irene Wallach) Harris",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 35,
+      "prix": 83.475
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Bengt Edvin Larsson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 29,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ernst Adolf Sjostedt",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 59,
+      "prix": 13.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Lillian Gertrud Asplund",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 5,
+      "prix": 31.3875
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Robert William Norman Leyson",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 24,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Alice Phoebe Harknett",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 21,
+      "prix": 7.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Stephen Hold",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 44,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Marjorie Collyer",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 8,
+      "prix": 26.25
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Frederick William Pengelly",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 19,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. George Henry Hunt",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 33,
+      "prix": 12.275
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Thamine Zabour",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 19,
+      "prix": 14.4542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Katherine Murphy",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 18,
+      "prix": 15.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Reginald Charles Coleridge",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 29,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Matti Alexanteri Maenpaa",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 7.125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Sleiman Attalah",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 30,
+      "prix": 7.225
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Dr. William Edward Minahan",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 44,
+      "prix": 90
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Agda Thorilda Viktoria Lindahl",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 25,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. William (Anna) Hamalainen",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 24,
+      "prix": 14.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Richard Leonard Beckwith",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 37,
+      "prix": 52.5542
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Rev. Ernest Courtenay Carter",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 54,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. James George Reed",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 18,
+      "prix": 7.25
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Wilhelm (Elna Matilda Persson) Strom",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 29,
+      "prix": 10.4625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William Thomas Stead",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 62,
+      "prix": 26.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William Arthur Lobb",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 30,
+      "prix": 16.1
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Viktor (Helena Wilhelmina) Rosblom",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 41,
+      "prix": 20.2125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Darwis (Hanne Youssef Razi) Touma",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 29,
+      "prix": 15.2458
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Gertrude Maybelle Thorne",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 38,
+      "prix": 79.2
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Gladys Cherry",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 30,
+      "prix": 86.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Anna Ward",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 35,
+      "prix": 512.3292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. (Lutie Davis) Parrish",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 50,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. Edvin Rojj Felix Asplund",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 3,
+      "prix": 31.3875
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Emil Taussig",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 52,
+      "prix": 79.65
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William Harrison",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 40,
+      "prix": 0
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Delia Henry",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 21,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. David Reeves",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 36,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ernesti Arvid Panula",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 16,
+      "prix": 39.6875
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ernst Ulrik Persson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 25,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. William Thompson (Edith Junkins) Graham",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 58,
+      "prix": 153.4625
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Amelia Bissette",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 35,
+      "prix": 135.6333
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Alexander Cairns",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 28,
+      "prix": 31
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William Henry Tornquist",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 25,
+      "prix": 0
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. (Elizabeth Anne Maidment) Mellinger",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 41,
+      "prix": 19.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Charles H Natsch",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 37,
+      "prix": 29.7
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Hanora Healy",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 33,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Kornelia Theodosia Andrews",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 63,
+      "prix": 77.9583
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Augusta Charlotta Lindblom",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 45,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Francis Parkes",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 21,
+      "prix": 0
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Eric Rice",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 7,
+      "prix": 29.125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Stanton (Rosa Hunt) Abbott",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 35,
+      "prix": 20.25
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Frank Duane",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 65,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Nils Johan Goransson Olsson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 7.8542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Alfons de Pelsmaeker",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 16,
+      "prix": 9.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Edward Arthur Dorking",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Richard William Smith",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 57,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ivan Stankovic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 33,
+      "prix": 8.6625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Theodore de Mulder",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 30,
+      "prix": 9.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Penko Naidenoff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Masabumi Hosono",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 42,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Kate Connolly",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 22,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Ellen Barber",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 26,
+      "prix": 78.85
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Dickinson H (Helen Walton) Bishop",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 19,
+      "prix": 91.0792
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Rene Jacques Levy",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 36,
+      "prix": 12.875
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Aloisia Haas",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 24,
+      "prix": 8.85
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ivan Mineff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 24,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ervin G Lewy",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 30,
+      "prix": 27.7208
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Mansour Hanna",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 23.5,
+      "prix": 7.2292
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Helen Loraine Allison",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 2,
+      "prix": 151.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Adolphe Saalfeld",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 47,
+      "prix": 30.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. James (Helene DeLaudeniere Chaput) Baxter",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 50,
+      "prix": 247.5208
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Anna Katherine Kelly",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 20,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Bernard McCoy",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 24,
+      "prix": 23.25
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. William Cahoone Jr Johnson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 0
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Nora A Keane",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 46,
+      "prix": 12.35
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Howard Hugh Williams",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Hudson Trevor Allison",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 0.92,
+      "prix": 151.55
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Margaret Fleming",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 42,
+      "prix": 110.8833
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 17,
+      "prix": 108.9
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Samuel Abelson",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 30,
+      "prix": 24
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Laura Mabel Francatelli",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 30,
+      "prix": 56.9292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Margaret Bechstein Hays",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 24,
+      "prix": 83.1583
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Emily Borie Ryerson",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 18,
+      "prix": 262.375
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. William (Anna Sylfven) Lahtinen",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 26,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ignjac Hendekovic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Benjamin Hart",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 43,
+      "prix": 26.25
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Helmina Josefina Nilsson",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 26,
+      "prix": 7.8542
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Sinai (Miriam Sternin) Kantor",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 24,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Dr. Ernest Moraweck",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 54,
+      "prix": 14
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Mary Natalie Wick",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 31,
+      "prix": 164.8667
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Frederic Oakley (Margaretta Corning Stone) Spedden",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 40,
+      "prix": 134.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Samuel Dennis",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 7.25
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Yoto Danoff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 27,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Hilda Mary Slayter",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 30,
+      "prix": 12.35
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Albert Francis (Sylvia Mae Harbaugh) Caldwell",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 22,
+      "prix": 29
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. George John Jr Sage",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 69.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Marie Grice Young",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 36,
+      "prix": 135.6333
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Johan Hansen Nysveen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 61,
+      "prix": 6.2375
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. (Ada E Hall) Ball",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 36,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Frank John (Emily Alice Brown) Goldsmith",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 31,
+      "prix": 20.525
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Jean Gertrude Hippach",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 16,
+      "prix": 57.9792
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Agnes McCoy",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 28,
+      "prix": 23.25
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Austen Partner",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 45.5,
+      "prix": 28.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. George Edward Graham",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 38,
+      "prix": 153.4625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Leo Edmondus Vander Planke",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 16,
+      "prix": 18
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Henry William (Clara Heinsheimer) Frauenthal",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 42,
+      "prix": 133.65
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Mitto Denkoff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 30,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Thomas Clinton Pears",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 29,
+      "prix": 66.6
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Elizabeth Margaret Burns",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 41,
+      "prix": 134.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Karl Edwart Dahl",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 45,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Stephen Weart Blackwell",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 45,
+      "prix": 35.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Edmond Roger Navratil",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 2,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Alice Elizabeth Fortune",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 24,
+      "prix": 263
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Erik Gustaf Collander",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 28,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Charles Frederick Waddington Sedgwick",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 25,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Stanley Hubert Fox",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 36,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Amelia Brown",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 24,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Marion Elsie Smith",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 40,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Thomas Henry (Mary E Finck) Davison",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 34,
+      "prix": 16.1
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. William Loch Coutts",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 3,
+      "prix": 15.9
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Jovan Dimic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 42,
+      "prix": 8.6625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Nils Martin Odahl",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 23,
+      "prix": 9.225
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Fletcher Fellows Williams-Lambert",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 43,
+      "prix": 35
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Tannous Elias",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 15,
+      "prix": 7.2292
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Josef Arnold-Franchi",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 25,
+      "prix": 17.8
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Wazli Yousif",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 23,
+      "prix": 7.225
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Leo Peter Vanden Steen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 9.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Elsie Edith Bowerman",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 22,
+      "prix": 55
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Annie Clemmer Funk",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 38,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Mary McGovern",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 22,
+      "prix": 7.8792
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Helen Mary Mockler",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 23,
+      "prix": 7.8792
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Wilhelm Skoog",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 40,
+      "prix": 27.9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Sebastiano del Carlo",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 29,
+      "prix": 27.7208
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. (Catherine David) Barbara",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 45,
+      "prix": 14.4542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Adola Asim",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 35,
+      "prix": 7.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Thomas O'Brien",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 27,
+      "prix": 15.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Mauritz Nils Martin Adahl",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 30,
+      "prix": 7.25
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Frank Manley (Anna Sophia Atkinson) Warren",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 60,
+      "prix": 75.25
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. (Mantoura Boulos) Moussa",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 35,
+      "prix": 7.2292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Annie Jermyn",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 22,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mme. Leontine Pauline Aubart",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 24,
+      "prix": 69.3
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. George Achilles Harder",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 25,
+      "prix": 55.4417
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Jakob Alfred Wiklund",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 18,
+      "prix": 6.4958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William Thomas Beavan",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Sante Ringhini",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 22,
+      "prix": 135.6333
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Stina Viola Palsson",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 3,
+      "prix": 21.075
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Edgar Joseph (Leila Saks) Meyer",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 25,
+      "prix": 82.1708
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Aurora Adelia Landergren",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 22,
+      "prix": 7.25
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Harry Elkins Widener",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 27,
+      "prix": 211.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Tannous Betros",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 4.0125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Karl Gideon Gustafsson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Rosalie Bidois",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 42,
+      "prix": 227.525
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Maria Nakid",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 1,
+      "prix": 15.7417
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Juho Tikkanen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 32,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Alexander Oskar (Mary Aline Towner) Holverson",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 35,
+      "prix": 52
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Vasil Plotcharsky",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 27,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Charles Henry Davies",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 18,
+      "prix": 73.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Sidney Leonard Goodwin",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 1,
+      "prix": 46.9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Kate Buss",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 36,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Matthew Sadlier",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 7.7292
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Bertha Lehmann",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 17,
+      "prix": 12
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. William Ernest Carter",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 36,
+      "prix": 120
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Carl Olof Jansson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 7.7958
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Johan Birger Gustafsson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Marjorie Newell",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 23,
+      "prix": 113.275
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Hjalmar (Agnes Charlotta Bengtsson) Sandstrom",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 24,
+      "prix": 16.7
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Erik Johansson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 7.7958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Elina Olsson",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 31,
+      "prix": 7.8542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Peter David McKane",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 46,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Dr. Alfred Pain",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 23,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. William H (Jessie L) Trout",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 28,
+      "prix": 12.65
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Juha Niskanen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 39,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. John Adams",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 26,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Mari Aina Jussila",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 21,
+      "prix": 9.825
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Pekka Pietari Hakkarainen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 15.85
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Marija Oreskovic",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 20,
+      "prix": 8.6625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Shadrach Gale",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 34,
+      "prix": 21
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Carl/Charles Peter Widegren",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 51,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. William Rowe Richards",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 3,
+      "prix": 18.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Hans Martin Monsen Birkeland",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Ida Lefebre",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 3,
+      "prix": 25.4667
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Todor Sdycoff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 42,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Henry Hart",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 27,
+      "prix": 6.8583
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Daisy E Minahan",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 33,
+      "prix": 90
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Alfred Fleming Cunningham",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 22,
+      "prix": 0
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Johan Julian Sundman",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 44,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Thomas (Annie Louise Rowley) Meek",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 32,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. James Vivian (Lulu Thorne Christian) Drew",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 34,
+      "prix": 32.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Lyyli Karoliina Silven",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 18,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. William John Matthews",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 30,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Catharina Van Impe",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 10,
+      "prix": 24.15
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. David Charters",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 7.7333
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Leo Zimmerman",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 29,
+      "prix": 7.875
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 28,
+      "prix": 14.4
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Viktor Richard Rosblom",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 18,
+      "prix": 20.2125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Phillippe Wiseman",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 54,
+      "prix": 7.25
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Charles V (Ada Maria Winfield) Clarke",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 28,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Kate Florence Phillips",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 19,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. James Flynn",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Berk (Berk Trembisky) Pickard",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 32,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Mauritz Hakan Bjornstrom-Steffansson",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 28,
+      "prix": 26.55
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Percival (Florence Kate White) Thorneycroft",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 33,
+      "prix": 16.1
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Charles Alexander (Alice Adelaide Slow) Louch",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 42,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Nikolai Erland Kallio",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 17,
+      "prix": 7.125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William Baird Silvey",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 50,
+      "prix": 55.9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Lucile Polk Carter",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 14,
+      "prix": 120
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Doolina Margaret Ford",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 21,
+      "prix": 34.375
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Sidney (Emily Hocking) Richards",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 24,
+      "prix": 18.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Mark Fortune",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 64,
+      "prix": 263
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Johan Henrik Johannesson Kvillner",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 31,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Benjamin (Esther Ada Bloomfield) Hart",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 45,
+      "prix": 26.25
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Leon Hampe",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 9.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Johan Emil Petterson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 25,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Ms. Encarnacion Reynaldo",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 28,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Bernt Johannesen-Bratthammer",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 29,
+      "prix": 8.1125
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. Washington Dodge",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 4,
+      "prix": 81.8583
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Madeleine Violet Mellinger",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 13,
+      "prix": 19.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Frederic Kimber Seward",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 34,
+      "prix": 26.55
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Marie Catherine Baclini",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 5,
+      "prix": 19.2583
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Major. Arthur Godfrey Peuchen",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 52,
+      "prix": 30.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Edwy Arthur West",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 36,
+      "prix": 27.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ingvald Olai Olsen Hagland",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 19.9667
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Benjamin Laventall Foreman",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 30,
+      "prix": 27.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Samuel L Goldenberg",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 49,
+      "prix": 89.1042
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Joseph Peduzzi",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 24,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ivan Jalsevac",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 29,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Francis Davis Millet",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 65,
+      "prix": 26.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Frederick R (Marion) Kenyon",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 41,
+      "prix": 51.8625
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Ellen Toomey",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 50,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Maurice O'Connor",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 17,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Harry Anderson",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 48,
+      "prix": 26.55
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. William Morley",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 34,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Arthur H Gee",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 47,
+      "prix": 38.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Jacob Christian Milling",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 48,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Simon Maisner",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 34,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Manuel Estanslas Goncalves",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 38,
+      "prix": 7.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William Campbell",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 21,
+      "prix": 0
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. John Montgomery Smart",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 56,
+      "prix": 26.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. James Scanlan",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 7.725
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Helene Barbara Baclini",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 0.75,
+      "prix": 19.2583
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Arthur Keefe",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 39,
+      "prix": 7.25
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Luka Cacic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 38,
+      "prix": 8.6625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Edwy Arthur (Ada Mary Worth) West",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 33,
+      "prix": 27.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Amin S (Marie Marthe Thuillard) Jerwan",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 23,
+      "prix": 13.7917
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Ida Sofia Strandberg",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 22,
+      "prix": 9.8375
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. George Quincy Clifford",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 40,
+      "prix": 52
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Peter Henry Renouf",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 34,
+      "prix": 21
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Lewis Richard Braund",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 29,
+      "prix": 7.0458
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Nils August Karlsson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 7.5208
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Hildur E Hirvonen",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 2,
+      "prix": 12.2875
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. Harold Victor Goodwin",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 9,
+      "prix": 46.9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Anthony Wood Frost",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 37,
+      "prix": 0
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Richard Henry Rouse",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 50,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. (Hedwig) Turkula",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 63,
+      "prix": 9.5875
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Dickinson H Bishop",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 25,
+      "prix": 91.0792
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Jeannie Lefebre",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 8,
+      "prix": 25.4667
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Frederick Maxfield (Jane Anne Forby) Hoyt",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 35,
+      "prix": 90
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Edward Austin Kent",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 58,
+      "prix": 29.7
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Francis William Somerton",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 30,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Eden Leslie Coutts",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 9,
+      "prix": 15.9
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Konrad Mathias Reiersen Hagland",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 19.9667
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Einar Windelov",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 7.25
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Harry Markland Molson",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 55,
+      "prix": 30.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ramon Artagaveytia",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 71,
+      "prix": 49.5042
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Edward Roland Stanley",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Gerious Yousseff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 26,
+      "prix": 14.4583
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Elizabeth Mussey Eustis",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 54,
+      "prix": 78.2667
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Frederick William Shellard",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 55,
+      "prix": 15.1
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Hudson J C (Bessie Waldo Daniels) Allison",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 25,
+      "prix": 151.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Olof Svensson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 24,
+      "prix": 7.7958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Petar Calic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 17,
+      "prix": 8.6625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Mary Canavan",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 21,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Bridget Mary O'Sullivan",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 21,
+      "prix": 7.6292
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Kristina Sofia Laitinen",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 37,
+      "prix": 9.5875
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Roberta Maioni",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 16,
+      "prix": 86.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Victor de Satode Penasco y Castellana",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 18,
+      "prix": 108.9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Frederick Charles (Jane Richards) Quick",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 33,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. George Bradley",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 37,
+      "prix": 26.55
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Henry Margido Olsen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 22.525
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Fang Lang",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 26,
+      "prix": 56.4958
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Eugene Patrick Daly",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 29,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. James Webber",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 66,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. James Robert McGough",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 36,
+      "prix": 26.2875
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Martin (Elizabeth L. Barrett) Rothschild",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 54,
+      "prix": 59.4
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Satio Coleff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 24,
+      "prix": 7.4958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William Anderson Walker",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 47,
+      "prix": 34.0208
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. (Amelia Milley) Lemore",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 34,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Patrick Ryan",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 30,
+      "prix": 24.15
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. William A (Florence Agnes Hughes) Angle",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 36,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Stefo Pavlovic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 32,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Anne Perreault",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 30,
+      "prix": 93.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Janko Vovk",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Sarkis Lahoud",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 35,
+      "prix": 7.225
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Louis Albert (Ida Sophia Fischer) Hippach",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 44,
+      "prix": 57.9792
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Fared Kassem",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 18,
+      "prix": 7.2292
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. James Farrell",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 40.5,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Lucy Ridsdale",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 50,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. John Farthing",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 49,
+      "prix": 221.7792
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Johan Werner Salonen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 39,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Richard George Hocking",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 23,
+      "prix": 11.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Phyllis May Quick",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 2,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Nakli Toufik",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 17,
+      "prix": 7.2292
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Joseph Jr Elias",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 17,
+      "prix": 7.2292
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Catherine (Catherine Rizk) Peter",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 24,
+      "prix": 22.3583
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Marija Cacic",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 30,
+      "prix": 8.6625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Eva Miriam Hart",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 7,
+      "prix": 26.25
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Major. Archibald Willingham Butt",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 45,
+      "prix": 26.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Bertha LeRoy",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 30,
+      "prix": 106.425
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Samuel Beard Risien",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 69,
+      "prix": 14.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Hedwig Margaritha Frolicher",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 22,
+      "prix": 49.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Harriet R Crosby",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 36,
+      "prix": 71
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Ingeborg Constanzia Andersson",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 9,
+      "prix": 31.275
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Sigrid Elisabeth Andersson",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 11,
+      "prix": 31.275
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Edward Beane",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 32,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Walter Donald Douglas",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 50,
+      "prix": 106.425
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Arthur Ernest Nicholson",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 64,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Edward (Ethel Clarke) Beane",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 19,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Julian Padro y Manent",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 27,
+      "prix": 13.8625
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Frank John Goldsmith",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 33,
+      "prix": 20.525
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. John Morgan Jr Davies",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 8,
+      "prix": 36.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. John Borland Jr Thayer",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 17,
+      "prix": 110.8833
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Percival James R Sharp",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 27,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Timothy O'Brien",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 7.8292
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Fahim Leeni",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 7.225
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Velin Ohman",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 22,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. George Wright",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 62,
+      "prix": 26.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Lady. (Lucille Christiana Sutherland)Duff Gordon",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 48,
+      "prix": 39.6
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Victor Robbins",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 45,
+      "prix": 227.525
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Emil (Tillie Mandelbaum) Taussig",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 39,
+      "prix": 79.65
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Guillaume Joseph (Emma) de Messemaeker",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 36,
+      "prix": 17.4
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Thomas Rowan Morrow",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 30,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Husein Sivic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 40,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Robert Douglas Norman",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 28,
+      "prix": 13.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. John Simmons",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 40,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. (Marion Ogden) Meanwell",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 62,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Alfred J Davies",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 24,
+      "prix": 24.15
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ilia Stoytcheff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Nils (Alma Cornelia Berglund) Palsson",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 29,
+      "prix": 21.075
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Tannous Doharr",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 7.2292
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Carl Jonsson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 32,
+      "prix": 7.8542
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. George Harris",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 62,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Edward Dale (Charlotte Lamson) Appleton",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 53,
+      "prix": 51.4792
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. John Irwin Flynn",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 36,
+      "prix": 26.3875
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Mary Kelly",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 22,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Alfred George John Rush",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 16,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. George Patchett",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 14.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Ethel Garside",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 34,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. William Baird (Alice Munger) Silvey",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 39,
+      "prix": 55.9
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Joseph (Maria Elias) Caram",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 18,
+      "prix": 14.4583
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Eiriik Jussila",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 32,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Julie Rachel Christy",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 25,
+      "prix": 30
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. John Borland (Marian Longstreth Morris) Thayer",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 39,
+      "prix": 110.8833
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. William James Downton",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 54,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. John Hugo Ross",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 36,
+      "prix": 40.125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Uscher Paulner",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 16,
+      "prix": 8.7125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Ruth Taussig",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 18,
+      "prix": 79.65
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. John Denzil Jarvis",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 47,
+      "prix": 15
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Maxmillian Frolicher-Stehli",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 60,
+      "prix": 79.2
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Eliezer Gilinski",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Joseph Murdlin",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Matti Rintamaki",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 35,
+      "prix": 7.125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Walter Bertram (Martha Eustis) Stephenson",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 52,
+      "prix": 78.2667
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. William James Elsbury",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 47,
+      "prix": 7.25
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Mary Bourke",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 40,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. John Henry Chapman",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 37,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Jean Baptiste Van Impe",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 36,
+      "prix": 24.15
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Jessie Wills Leitch",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 31,
+      "prix": 33
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Alfred Johnson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 49,
+      "prix": 0
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Hanna Boulos",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 18,
+      "prix": 7.225
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Sir. Cosmo Edmund Duff Gordon",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 49,
+      "prix": 56.9292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Sidney Samuel (Amy Frances Christy) Jacobsohn",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 24,
+      "prix": 27
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Petco Slabenoff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 42,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Charles H Harrington",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 37,
+      "prix": 42.4
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ernst William Torber",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 44,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Harry Homer",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 35,
+      "prix": 26.55
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Edvard Bengtsson Lindell",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 36,
+      "prix": 15.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Milan Karaic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 30,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Robert Williams Daniel",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 27,
+      "prix": 30.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Joseph (Juliette Marie Louise Lafargue) Laroche",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 22,
+      "prix": 41.5792
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Elizabeth W Shutes",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 40,
+      "prix": 153.4625
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Anders Johan (Alfrida Konstantia Brogren) Andersson",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 39,
+      "prix": 31.275
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Jose Neto Jardin",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 7.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Margaret Jane Murphy",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 18,
+      "prix": 15.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. John Horgan",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William Alfred Brocklebank",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 35,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Alice Herman",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 24,
+      "prix": 65
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Ernst Gilbert Danbom",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 34,
+      "prix": 14.4
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. William Arthur (Cordelia K Stanlick) Lobb",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 26,
+      "prix": 16.1
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Marion Louise Becker",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 4,
+      "prix": 39
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Lawrence Gavey",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 26,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Antoni Yasbeck",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 27,
+      "prix": 14.4542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Edwin Nelson Jr Kimball",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 42,
+      "prix": 52.5542
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Sahid Nakid",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 15.7417
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Henry Damsgaard Hansen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 7.8542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. David John Bowen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 16.1
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Frederick Sutton",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 61,
+      "prix": 32.3208
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Rev. Charles Leonard Kirkland",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 57,
+      "prix": 12.35
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Gretchen Fiske Longley",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 21,
+      "prix": 77.9583
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Guentcho Bostandyeff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 26,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Patrick D O'Connell",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 18,
+      "prix": 7.7333
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Algernon Henry Wilson Barkworth",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 80,
+      "prix": 30
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Johan Svensson Lundahl",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 51,
+      "prix": 7.0542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Dr. Max Stahelin-Maeglin",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 32,
+      "prix": 30.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. William Henry Marsh Parr",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 30,
+      "prix": 0
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Mabel Skoog",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 9,
+      "prix": 27.9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Mary Davis",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 28,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Antti Gustaf Leinonen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 32,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Harvey Collyer",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 31,
+      "prix": 26.25
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Juha (Maria Emilia Ojala) Panula",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 41,
+      "prix": 39.6875
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Percival Thorneycroft",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 37,
+      "prix": 16.1
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Hans Peder Jensen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 7.8542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mlle. Emma Sagesser",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 24,
+      "prix": 69.3
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Margit Elizabeth Skoog",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 2,
+      "prix": 27.9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Choong Foo",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 32,
+      "prix": 56.4958
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Eugenie Baclini",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 0.75,
+      "prix": 19.2583
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Henry Sleeper Harper",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 48,
+      "prix": 76.7292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Liudevit Cor",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Col. Oberst Alfons Simonius-Blumer",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 56,
+      "prix": 35.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Edward Willey",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 7.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Amy Zillah Elsie Stanley",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 23,
+      "prix": 7.55
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Mito Mitkoff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 23,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Elsie Doling",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 18,
+      "prix": 23
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Johannes Halvorsen Kalvik",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 8.4333
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Hanora O'Leary",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 16,
+      "prix": 7.8292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Hanora Hegarty",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 18,
+      "prix": 6.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Leonard Mark Hickman",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 24,
+      "prix": 73.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Alexander Radeff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 27,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. John (Catherine) Bourke",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 32,
+      "prix": 15.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. George Floyd Eitemiller",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 23,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Arthur Webster Newell",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 58,
+      "prix": 113.275
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Dr. Henry William Frauenthal",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 50,
+      "prix": 133.65
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Mohamed Badt",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 40,
+      "prix": 7.225
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Edward Pomeroy Colley",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 47,
+      "prix": 25.5875
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Peju Coleff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 36,
+      "prix": 7.4958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Eino William Lindqvist",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Lewis Hickman",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 32,
+      "prix": 73.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Reginald Fenton Butler",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 25,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Knud Paust Rommetvedt",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 49,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Jacob Cook",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 43,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Elmer Zebley (Juliet Cummins Wright) Taylor",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 48,
+      "prix": 52
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Thomas William Solomon (Elizabeth Catherine Ford) Brown",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 40,
+      "prix": 39
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Thornton Davidson",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 31,
+      "prix": 52
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Henry Michael Mitchell",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 70,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Charles Wilhelms",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 31,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Ennis Hastings Watson",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 19,
+      "prix": 0
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Gustaf Hjalmar Edvardsson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 18,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Frederick Charles Sawyer",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 24.5,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Anna Sofia Turja",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 18,
+      "prix": 9.8417
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Frederick (Augusta Tyler) Goodwin",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 43,
+      "prix": 46.9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Thomas Drake Martinez Cardeza",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 36,
+      "prix": 512.3292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Katie Peters",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 28,
+      "prix": 8.1375
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Hammad Hassab",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 27,
+      "prix": 76.7292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Thor Anderson Olsvigen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 9.225
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Charles Edward Goodwin",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 14,
+      "prix": 46.9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Thomas William Solomon Brown",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 60,
+      "prix": 39
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Joseph Philippe Lemercier Laroche",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 25,
+      "prix": 41.5792
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Jaako Arnold Panula",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 14,
+      "prix": 39.6875
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Branko Dakic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 10.1708
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Eberhard Thelander Fischer",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 18,
+      "prix": 7.7958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Georgette Alexandra Madill",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 15,
+      "prix": 211.3375
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Albert Adrian Dick",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 31,
+      "prix": 57
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Manca Karun",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 4,
+      "prix": 13.4167
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Ali Lam",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 37,
+      "prix": 56.4958
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Khalil Saad",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 25,
+      "prix": 7.225
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Col. John Weir",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 60,
+      "prix": 26.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Charles Henry Chapman",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 52,
+      "prix": 13.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. James Kelly",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 44,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Katherine Mullens",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 19,
+      "prix": 7.7333
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. John Borland Thayer",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 49,
+      "prix": 110.8833
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Adolf Mathias Nicolai Olsen Humblen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 42,
+      "prix": 7.65
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. John Jacob (Madeleine Talmadge Force) Astor",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 18,
+      "prix": 227.525
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Spencer Victor Silverthorne",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 35,
+      "prix": 26.2875
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Saiide Barbara",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 18,
+      "prix": 14.4542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Martin Gallagher",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 25,
+      "prix": 7.7417
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Henrik Juul Hansen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 26,
+      "prix": 7.8542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Henry Samuel Morley",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 39,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Florence Kelly",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 45,
+      "prix": 13.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Edward Pennington Calderhead",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 42,
+      "prix": 26.2875
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Alice Cleaver",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 22,
+      "prix": 151.55
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. Halim Gonios Moubarek",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 4,
+      "prix": 15.2458
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mlle. Berthe Antonine Mayne",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 24,
+      "prix": 49.5042
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Herman Klaber",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 41,
+      "prix": 26.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Elmer Zebley Taylor",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 48,
+      "prix": 52
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. August Viktor Larsson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 29,
+      "prix": 9.4833
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Samuel Greenberg",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 52,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Peter Andreas Lauritz Andersen Soholt",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 7.65
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Caroline Louise Endres",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 38,
+      "prix": 227.525
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Edwina Celia Troutt",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 27,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Malkolm Joackim Johnson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 33,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Annie Jessie Harper",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 6,
+      "prix": 33
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Svend Lauritz Jensen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 17,
+      "prix": 7.0542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William Henry Gillespie",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 34,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Henry Price Hodges",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 50,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Norman Campbell Chambers",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 27,
+      "prix": 53.1
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Luka Oreskovic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 8.6625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Peter Henry (Lillian Jefferys) Renouf",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 30,
+      "prix": 21
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Margareth Mannion",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 28,
+      "prix": 7.7375
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Kurt Arnold Gottfrid Bryhl",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 25,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Pieta Sofia Ilmakangas",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 25,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Elisabeth Walton Allen",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 29,
+      "prix": 211.3375
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Houssein G N Hassan",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 11,
+      "prix": 18.7875
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Robert J Knight",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 41,
+      "prix": 0
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William John Berriman",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 23,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Moses Aaron Troupiansky",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 23,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Leslie Williams",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28.5,
+      "prix": 16.1
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Edward (Margaret Ann Watson) Ford",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 48,
+      "prix": 34.375
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Gustave J Lesurer",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 35,
+      "prix": 512.3292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Kanio Ivanoff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Minko Nankoff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 32,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Walter James Hawksford",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 45,
+      "prix": 30
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Tyrell William Cavendish",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 36,
+      "prix": 78.85
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Susan Parker Ryerson",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 21,
+      "prix": 262.375
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Neal McNamee",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 24,
+      "prix": 16.1
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Juho Stranden",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 31,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Capt. Edward Gifford Crosby",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 70,
+      "prix": 71
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Rossmore Edward Abbott",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 16,
+      "prix": 20.25
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Anna Sinkkonen",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 30,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Daniel Warner Marvin",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 19,
+      "prix": 53.1
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Michael Connaghton",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 31,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Joan Wells",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 4,
+      "prix": 23
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. Meier Moor",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 6,
+      "prix": 12.475
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Johannes Joseph Vande Velde",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 33,
+      "prix": 9.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Lalio Jonkoff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 23,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Samuel (Jane Laver) Herman",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 48,
+      "prix": 65
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. Viljo Hamalainen",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 0.67,
+      "prix": 14.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. August Sigfrid Carlsson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 7.7958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Percy Andrew Bailey",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 18,
+      "prix": 11.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Thomas Leonard Theobald",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 34,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "the Countess. of (Lucy Noel Martha Dyer-Edwards) Rothes",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 33,
+      "prix": 86.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. John Garfirth",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 23,
+      "prix": 14.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Iisakki Antino Aijo Nirva",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 41,
+      "prix": 7.125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Hanna Assi Barah",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 7.2292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. William Ernest (Lucile Polk) Carter",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 36,
+      "prix": 120
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Hans Linus Eklund",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 16,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. John C (Anna Andrews) Hogeboom",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 51,
+      "prix": 77.9583
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Dr. Arthur Jackson Brewe",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 46,
+      "prix": 39.6
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Mary Mangan",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 30.5,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Daniel J Moran",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 28,
+      "prix": 24.15
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Daniel Danielsen Gronnestad",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 32,
+      "prix": 8.3625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Rene Aime Lievens",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 24,
+      "prix": 9.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Niels Peder Jensen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 48,
+      "prix": 7.8542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. (Mary) Mack",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 57,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Dibo Elias",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 29,
+      "prix": 7.225
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Elizabeth (Eliza Needs) Hocking",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 54,
+      "prix": 23
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Pehr Fabian Oliver Malkolm Myhrman",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 18,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Roger Tobin",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Virginia Ethel Emanuel",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 5,
+      "prix": 12.475
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Thomas J Kilgannon",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 22,
+      "prix": 7.7375
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Edward Scott (Elisabeth Walton McMillan) Robert",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 43,
+      "prix": 211.3375
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Banoura Ayoub",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 13,
+      "prix": 7.2292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Albert Adrian (Vera Gillespie) Dick",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 17,
+      "prix": 57
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Milton Clyde Long",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 29,
+      "prix": 30
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Andrew G Johnston",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 35,
+      "prix": 23.45
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William Ali",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 25,
+      "prix": 7.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Abraham (David Lishin) Harmer",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 25,
+      "prix": 7.25
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Anna Sofia Sjoblom",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 18,
+      "prix": 7.4958
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. George Hugh Rice",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 8,
+      "prix": 29.125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Bertram Vere Dean",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 1,
+      "prix": 20.575
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Benjamin Guggenheim",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 46,
+      "prix": 79.2
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Andrew Keane",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Alfred Gaskell",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 16,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Stella Anna Sage",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 21,
+      "prix": 69.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. William Fisher Hoyt",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 43,
+      "prix": 30.6958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ristiu Dantcheff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 25,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Richard Otter",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 39,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Dr. Alice (Farnham) Leader",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 49,
+      "prix": 25.9292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Mara Osman",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 31,
+      "prix": 8.6833
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Yousseff Ibrahim Shawah",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 30,
+      "prix": 7.2292
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Jean Baptiste (Rosalie Paula Govaert) Van Impe",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 30,
+      "prix": 24.15
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Martin Ponesell",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 34,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Harvey (Charlotte Annie Tate) Collyer",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 31,
+      "prix": 26.25
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. William Thornton II Carter",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 11,
+      "prix": 120
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. Assad Alexander Thomas",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 0.42,
+      "prix": 8.5167
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Oskar Arvid Hedman",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 27,
+      "prix": 6.975
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Karl Johan Johansson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 31,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Thomas Jr Andrews",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 39,
+      "prix": 0
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Ellen Natalia Pettersson",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 18,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. August Meyer",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 39,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Norman Campbell (Bertha Griggs) Chambers",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 33,
+      "prix": 53.1
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. William Alexander",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 26,
+      "prix": 7.8875
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. James Lester",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 39,
+      "prix": 24.15
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Richard James Slemen",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 35,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Ebba Iris Alfrida Andersson",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 6,
+      "prix": 31.275
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Ernest Portage Tomlin",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 30.5,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Richard Fry",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 39,
+      "prix": 0
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Wendla Maria Heininen",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 23,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Albert Mallet",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 31,
+      "prix": 37.0042
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. John Fredrik Alexander Holm",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 43,
+      "prix": 6.45
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Karl Thorsten Skoog",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 10,
+      "prix": 27.9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Charles Melville (Clara Jennings Gregg) Hays",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 52,
+      "prix": 93.5
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Nikola Lulic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 27,
+      "prix": 8.6625
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Jonkheer. John George Reuchlin",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 38,
+      "prix": 0
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. (Beila) Moor",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 27,
+      "prix": 12.475
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. Urho Abraham Panula",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 2,
+      "prix": 39.6875
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. John Flynn",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 36,
+      "prix": 6.95
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Len Lam",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 23,
+      "prix": 56.4958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Andre Mallet",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 1,
+      "prix": 37.0042
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Thomas Joseph McCormack",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. George Nelson (Martha Evelyn) Stone",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 62,
+      "prix": 80
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Antoni (Selini Alexander) Yasbeck",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 15,
+      "prix": 14.4542
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. George Sibley Richards",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 0.83,
+      "prix": 18.75
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Amin Saad",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 30,
+      "prix": 7.2292
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Albert Augustsson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 23,
+      "prix": 7.8542
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Owen George Allum",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 18,
+      "prix": 8.3
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Sara Rebecca Compton",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 39,
+      "prix": 83.1583
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Jakob Pasic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 21,
+      "prix": 8.6625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Maurice Sirota",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 8.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Chang Chip",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 32,
+      "prix": 56.4958
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Pierre Marechal",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 29,
+      "prix": 29.7
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Ilmari Rudolf Alhomaki",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 7.925
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Thomas Charles Mudd",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 16,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Augusta Serepeca",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 30,
+      "prix": 31
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Peter L Lemberopolous",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 34.5,
+      "prix": 6.4375
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Jeso Culumovic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 17,
+      "prix": 8.6625
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Anthony Abbing",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 42,
+      "prix": 7.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Douglas Bullen Sage",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 18,
+      "prix": 69.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Marin Markoff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 35,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Rev. John Harper",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 28,
+      "prix": 33
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Samuel L (Edwiga Grabowska) Goldenberg",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 40,
+      "prix": 89.1042
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Master. Sigvard Harald Elias Andersson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 4,
+      "prix": 31.275
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Johan Svensson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 74,
+      "prix": 7.775
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Nourelain Boulos",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 9,
+      "prix": 15.2458
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Mary Conover Lines",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 16,
+      "prix": 39.4
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Ernest Courtenay (Lilian Hughes) Carter",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 44,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Sam (Leah Rosen) Aks",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 18,
+      "prix": 9.35
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. George Dennick (Mary Hitchcock) Wick",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 45,
+      "prix": 164.8667
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Peter Denis Daly",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 51,
+      "prix": 26.55
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. Solomon (Latifa Qurban) Baclini",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 24,
+      "prix": 19.2583
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Raihed Razi",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 30,
+      "prix": 7.2292
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Claus Peter Hansen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 41,
+      "prix": 14.1083
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Frederick Edward Giles",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 21,
+      "prix": 11.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Frederick Joel (Margaret Welles Barron) Swift",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 48,
+      "prix": 25.9292
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Dorothy Edith Sage",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 14,
+      "prix": 69.55
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. John William Gill",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 24,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. (Karolina) Bystrom",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 42,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Asuncion Duran y More",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 27,
+      "prix": 13.8583
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Washington Augustus II Roebling",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 31,
+      "prix": 50.4958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Philemon van Melkebeke",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 23,
+      "prix": 9.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Master. Harold Theodor Johnson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 4,
+      "prix": 11.1333
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Cerin Balkic",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 26,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Richard Leonard (Sallie Monypeny) Beckwith",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 47,
+      "prix": 52.5542
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Frans Olof Carlsson",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 33,
+      "prix": 5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Victor Vander Cruyssen",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 47,
+      "prix": 9
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Samuel (Hannah Wizosky) Abelson",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 28,
+      "prix": 24
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Adele Kiamie Najib",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 15,
+      "prix": 7.225
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Alfred Ossian Gustafsson",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 20,
+      "prix": 9.8458
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Nedelio Petroff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 19,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Kristo Laleff",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 23,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. Thomas Jr (Lily Alexenia Wilson) Potter",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 56,
+      "prix": 83.1583
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mrs. William (Imanita Parrish Hall) Shelley",
+    "input": {
+      "classe": 2,
+      "sexe": 1,
+      "age": 25,
+      "prix": 26
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Johann Markun",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 33,
+      "prix": 7.8958
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Gerda Ulrika Dahlberg",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 22,
+      "prix": 10.5167
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Frederick James Banfield",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 28,
+      "prix": 10.5
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Henry Jr Sutehall",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 25,
+      "prix": 7.05
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mrs. William (Margaret Norton) Rice",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 39,
+      "prix": 29.125
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Rev. Juozas Montvila",
+    "input": {
+      "classe": 2,
+      "sexe": 0,
+      "age": 27,
+      "prix": 13
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Miss. Margaret Edith Graham",
+    "input": {
+      "classe": 1,
+      "sexe": 1,
+      "age": 19,
+      "prix": 30
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Miss. Catherine Helen Johnston",
+    "input": {
+      "classe": 3,
+      "sexe": 1,
+      "age": 7,
+      "prix": 23.45
+    },
+    "output": {
+      "survivant": "non"
+    }
+  },
+  {
+    "name": "Mr. Karl Howell Behr",
+    "input": {
+      "classe": 1,
+      "sexe": 0,
+      "age": 26,
+      "prix": 30
+    },
+    "output": {
+      "survivant": "oui"
+    }
+  },
+  {
+    "name": "Mr. Patrick Dooley",
+    "input": {
+      "classe": 3,
+      "sexe": 0,
+      "age": 32,
+      "prix": 7.75
+    },
+    "output": {
+      "survivant": "non"
+    }
+  }
+]
