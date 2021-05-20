@@ -1,0 +1,45 @@
+<html>
+  <head>
+    <style>
+body {
+  text-align: center;
+}
+    </style>
+    <script src="https://unpkg.com/zdog@1/dist/zdog.dist.min.js"></script>
+  </head>
+  <body>
+    <canvas id="app" width="640" height="360"></canvas>
+
+    <script>
+
+const illo = new Zdog.Illustration({
+  element: '#app',
+})
+
+const cube = new Zdog.Box({
+  addTo: illo,
+  width: 200,
+  height: 200,
+  depth: 200,
+  stroke: false,
+  color: '#C25',
+  leftFace: '#EA0',
+  rightFace: '#E62',
+  topFace: '#ED0',
+  bottomFace: '#636',
+})
+
+const tick = () => {
+  cube.rotate.x += 0.01
+  cube.rotate.y += 0.01
+  cube.rotate.z += 0.01
+  illo.updateRenderGraph()
+
+  window.requestAnimationFrame(tick)
+}
+
+tick()
+
+    </script>
+  </body>
+</html>

@@ -101,4 +101,11 @@ cp 20210521/a-frame.html site/a-frame/index.html
 mkdir site/qna
 cp 20210521/qna.html site/qna/index.html
 
+mkdir site/zdog
+cp 20210521/zdog.html site/zdog/index.html
+
+mkdir site/carte-animee
+(cd modules/carte-animee; npm install; npm run build)
+cp -avr modules/carte-animee/public/* site/carte-animee
+
 surge site http://heig-datavis-2021.surge.sh
