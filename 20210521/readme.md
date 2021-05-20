@@ -66,3 +66,13 @@
 * [site](https://zzz.dog)
 * Exemple cube [code](https://github.com/idris-maps/heig-datavis-2019/blob/master/20190510-3d/exemples/zdog.html) - [résultat](https://heig-datavis-2021.surge.sh/z-dog/)
 
+
+---
+
+## Exercice 1
+
+Fichier: `20210521/3d.html`
+
+Créez un dessin 3D avec une des techniques plus haut
+
+---
